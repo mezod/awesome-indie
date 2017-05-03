@@ -11,8 +11,44 @@ Going indie does have lots of lifestyle perks :)
 
 All this resources might help inspire you and put you on the right track but in the end what matters is to MAKE and TRY stuff. So devour this content responsibly :)
 
+Contributions are more than welcome.
+
 **Notes:**
 
 If [$], it means it's not free and probably means I haven't tried it but still decided to add it because of the several references.
 
 In general, I'd be wary of the several paid content-like products specially targetted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible.
+
+## Table of Contents
+
+#### Communities
+
+#### Newsletters
+
+#### Podcasts
+
+#### Talks
+
+#### Blogs
+
+#### Events
+
+#### Books
+
+#### Tools
+
+#### People
+
+
+
+## Specific needs
+
+In the future, I'd like to have a list of resources for more specific needs or FAQs such as: 
+
+ - 'how to get ideas'
+ - 'how to find betatesters'
+ - 'where to advertise my project'
+ - 'what paid ads work better'
+ - 'types of digital products'
+ 
+Help me make a proper list of specific needs!
