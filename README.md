@@ -35,6 +35,7 @@ In general, I'd be wary of the several paid content-like products specially targ
 
 - indiehackers
 - indie
+- hackernoon
 - ?
 
 #### Podcasts
@@ -54,7 +55,7 @@ In general, I'd be wary of the several paid content-like products specially targ
 - 12 startups in 12 months - levels
 - patio11's
 - tyler tringas
-- clifford oravec?
+- clifford oravec? https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 - algun de medium?
 
 #### Blogs
@@ -64,7 +65,9 @@ In general, I'd be wary of the several paid content-like products specially targ
 - tyler tringas
 - joelonsoftware
 - walling
+- john o'nolan
 - dhh / fried on medium
+- maciej
 
 #### Events
 
@@ -94,6 +97,7 @@ In general, I'd be wary of the several paid content-like products specially targ
 - amy hoy
 - walling
 - courtland allen
+- maciej
 
 
 ## Specific needs
@@ -102,6 +106,7 @@ In the future, I'd like to have a list of resources for more specific needs or F
 
  - 'how to get ideas'
  - 'how to find betatesters'
+ - 'how to validate my idea'
  - 'where to advertise my project'
  - 'what paid ads work better'
  - 'types of digital products'
