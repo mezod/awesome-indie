@@ -22,14 +22,17 @@ In general, I'd be wary of the several paid content-like products specially targ
 ## Table of Contents
 
 #### Communities
-
+- [Barnacl.es](https://barnacl.es/)
+  News for bootstrappers, not VC hackers. Hacker-News like forum.
 - barnacles
 - indiehackers
 - bootstrapped.fm
-- lobsters
 ##passiveincome on freenode
 - hackernews
 - productpeople ?
+- Slack bootstrappers
+
+<!-- - lobsters -->
 
 #### Newsletters
 
@@ -49,6 +52,8 @@ In general, I'd be wary of the several paid content-like products specially targ
 - tyler tringas
 - levels
 - DHH
+- vincent woo
+- walling
 
 #### Posts
 
@@ -68,6 +73,8 @@ In general, I'd be wary of the several paid content-like products specially targ
 - john o'nolan
 - dhh / fried on medium
 - maciej
+- pg
+- sivers?
 
 #### Events
 
@@ -76,6 +83,7 @@ In general, I'd be wary of the several paid content-like products specially targ
 
 #### Books
 
+- Start Small, Stay Small
 - tyler tringas
 - levels
 - getting things done - dhh
