@@ -117,6 +117,13 @@ https://www.indiehackers.com/blog
 - courtland allen
 - maciej
 
+#### Courses
+
+WAARRRRRRNING $$$ haven't tried it
+
+- 30x500
+- Marketing for developers
+
 
 ## Specific needs
 
