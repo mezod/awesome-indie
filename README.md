@@ -17,12 +17,13 @@ Contributions are more than welcome.
 
 If [$], it means it's not free and probably means I haven't tried it but still decided to add it because of the several references.
 
-In general, I'd be wary of the several paid content-like products specially targetted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible.
+<!-- In general, I'd be wary of the several paid content-like products specially targetted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible. -->
 
 ## Table of Contents
 
 #### Communities
 - [Barnacl.es](https://barnacl.es/)
+
   News for bootstrappers, not VC hackers. Hacker-News like forum.
 - barnacles
 - indiehackers
