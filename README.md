@@ -98,6 +98,7 @@ https://www.indiehackers.com/blog
 - getting things done - dhh
 - rework
 - amy hoy?
+- Badass by Kathy Sierra recommended by pushcx
 
 #### Tools
 
