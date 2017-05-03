@@ -99,6 +99,7 @@ https://www.indiehackers.com/blog
 - rework
 - amy hoy?
 - Badass by Kathy Sierra recommended by pushcx
+https://groundera.com/
 
 #### Tools
 
@@ -121,7 +122,7 @@ https://www.indiehackers.com/blog
 
 WAARRRRRRNING $$$ haven't tried it
 
-- 30x500
+- 30x500 https://30x500.com/academy/
 - Marketing for developers
 
 
@@ -131,6 +132,9 @@ In the future, I'd like to have a list of resources for more specific needs or F
 
  - 'how to get ideas'
  - 'how to find betatesters'
+ - 'how to find my first 100 users'
+ <!-- https://promotehour.com/ -->
+ <!-- awesome places to post your startup -->
  - 'how to validate my idea'
  - 'where to advertise my project'
  - 'what paid ads work better'
