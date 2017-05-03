@@ -28,7 +28,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
 - [Barnacl.es](https://barnacl.es/)
 
-  News for bootstrappers, not VC hackers. Hacker-News like forum. [pushcx](https://twitter.com/pushcx) started it in 2014 and I've found it of great value ever since. Also, it runs on [great software](https://github.com/jcs/lobsters), which is always a thing to appreciate!
+  News for bootstrappers, not VC hackers. Hacker-News like forum. [pushcx](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software](https://github.com/jcs/lobsters), which is always a thing to appreciate!
 
 - bootstrapped.fm
 ##passiveincome on freenode
