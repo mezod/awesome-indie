@@ -23,22 +23,77 @@ In general, I'd be wary of the several paid content-like products specially targ
 
 #### Communities
 
+- barnacles
+- indiehackers
+- bootstrapped.fm
+- lobsters
+##passiveincome on freenode
+- hackernews
+- productpeople ?
+
 #### Newsletters
+
+- indiehackers
+- indie
+- ?
 
 #### Podcasts
 
+- indiehackers
+- bootstrapped.fm
+- thesaasbootstrapper
+
 #### Talks
+
+- tyler tringas
+- levels
+- DHH
+
+#### Posts
+
+- 12 startups in 12 months - levels
+- patio11's
+- tyler tringas
+- clifford oravec?
+- algun de medium?
 
 #### Blogs
 
+- patio11
+- levels
+- tyler tringas
+- joelonsoftware
+- walling
+- dhh / fried on medium
+
 #### Events
+
+- MicroConf
+- saas event
 
 #### Books
 
+- tyler tringas
+- levels
+- getting things done - dhh
+- rework
+- amy hoy?
+
 #### Tools
+
+- link to free-for-dev
+- link a tools of trade
+- link a selfhosted
 
 #### People
 
+- patio11
+- levels
+- dhh
+- justin jackson
+- amy hoy
+- walling
+- courtland allen
 
 
 ## Specific needs
