@@ -100,6 +100,7 @@ https://www.indiehackers.com/blog
 - amy hoy?
 - Badass by Kathy Sierra recommended by pushcx
 https://groundera.com/
+founders at work
 
 #### Tools
 
