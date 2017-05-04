@@ -33,7 +33,6 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 - [Events](#events)
 - [Books](#books)
 - [Tools](#tools)
-- [People](#people)
 - [Courses](#courses)
 - [Specific Needs](#specific-needs)
 
@@ -189,22 +188,58 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Blogs
 
-- patio11
-- levels
-- tyler tringas
-- joelonsoftware
-- walling
-- john o'nolan
-- dhh / fried on medium
-- maciej
-- pg
-- sivers?
-- joel
-- http://37signals.com/bootstrapped
+- [Patrick Mackenzie](http://www.kalzumeus.com/)
+
+  Over 500 posts that show how Patrick went from being a software engineer to running successful software businesses.
+  
+- [Rob Walling](http://www.softwarebyrob.com/)
+
+  Lessons Learned by a Solo Entrepreneur.
+  
+- [Pieter Levels](https://levels.io/)
+
+  Lots of advice on bootstrapping businesses if you dig between Pieter's multiple interests.
+  
+- [Tyler Tringas](https://tylertringas.com/)
+
+  On SaaS and his journey with Storemapper.
+  
+- [Joel Spolsky](https://www.joelonsoftware.com/)
+
+  Software and business have always been topics Joel has covered. StackOverflow and Trello prove he knows what he's talking about.
+  
+- [Signal v. Noise](https://m.signalvnoise.com/)
+
+  The blog of the basecamp people, mostly David Heinemeier Hansson and Jason Fried, on business and how to run bootstrapped companies.
+  
+- [Pinboard](https://blog.pinboard.in/)
+
+  Maciej Cegłowski's blog for his bookmarking tool, pinboard, useful in showing the growth of a successful solo business.
+  
+##### Other
+  
+- [The Foundation](https://thefoundation.com/blog) - Turning the process of creating a B2B SaaS business into a formula.
+- [Price Intelligently](http://www.priceintelligently.com/blog) - Blog focused on the economics of the SaaS business model and SaaS pricing.
+- [Moz Blog](https://moz.com/blog) For anything related to SEO.
+
+
+##### Others
+
+- [Paul Graham](http://www.paulgraham.com/articles.html) - A lot of content for big funded startups, but still relevant to bootstrappers
+- [John O'Nolan](https://john.onolan.org/) - especially the older posts
+- [Derek Sivers](https://sivers.org/blog)
+
+
 
 ### Case Studies
 
 https://www.indiehackers.com/blog
+
+https://levels.io/product-hunt-hacker-news-number-one/
+
+https://www.bugmuncher.com/blog/
+
+http://37signals.com/bootstrapped
 
 ### Events
 
@@ -236,21 +271,11 @@ http://thesaasbootstrapper.com/saas-startup-resources/
 - link a tools of trade
 - link a selfhosted
 
-### People
-
-- patio11
-- levels
-- dhh
-- justin jackson
-- amy hoy
-- walling
-- courtland allen
-- maciej
-
 ### Courses
 
 WAARRRRRRNING $$$ haven't tried it
 
+- https://www.foundercafe.com/
 - 30x500 https://30x500.com/academy/
 - Marketing for developers
 
