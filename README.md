@@ -183,8 +183,9 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 ##### Others
 There's obviously a million posts on the topic. I'm sure this is not a good selection but it'll get you started. Here you can find some more:
 
-- hackernoon https://hackernoon.com/
-- ?
+- [Bootstrappers.io](https://bootstrappers.io/)
+- [HackerNoon](https://hackernoon.com/)
+- [HackerNews](https://news.ycombinator.com/)
 
 ### Blogs
 
