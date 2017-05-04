@@ -11,7 +11,7 @@ Going indie does have lots of lifestyle perks :)
 
 All this resources might help inspire you and put you on the right track but in the end what matters is to MAKE and TRY stuff. So devour this content responsibly :)
 
-Contributions are more than welcome.
+Contributions are more than welcome. [I'm mezood on twitter](https://twitter.com/mezood)!
 
 **Notes:**
 
@@ -56,7 +56,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
   News for hackers, mostly technology and entrepreneurship. Not specific to indie devs but a must for everyone interested in computer science, creating products and making money. A lot of indie devs lurking around.
   
-- **[ProductPeople](https://productpeople.club/)** [$]
+- **[ProductPeople.club](https://productpeople.club/)** [$]
 
   Exclusive community for indie makers run by [Justin](https://twitter.com/mijustin). Apparently there's a waitlist and I can't figure out how much is it. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targetting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
 
