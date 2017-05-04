@@ -13,7 +13,7 @@ All this resources might help inspire you and put you on the right track but in 
 
 Contributions are more than welcome.
 
-[mezod](https://twitter.com/mezood)
+by [@mezod](https://twitter.com/mezood)
 
 **Notes:**
 
@@ -122,11 +122,29 @@ If [$], it means it's not free and probably means I haven't tried it but still d
   
 ### Talks
 
-- tyler tringas
-- levels
-- DHH
-- vincent woo
-- walling
+- [David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY) by [David Heinemeier Hansson](https://twitter.com/dhh)
+
+  Bootstrapping as the better alternative to VC funded startups.
+  
+- [Tyler Tringas on Storemapper and MicroSaaS](https://www.youtube.com/watch?v=i3d1asTrWUQ) by [Tyler Tringas](https://twitter.com/tylertringas)
+
+  15 minutes filled with a lot of valuable information and insights where Tyler presents the concept of Micro-SaaS and tells us his story.
+  
+- [Bootstrapping Side Projects To Profit by Pieter Levels](https://www.youtube.com/watch?v=m3nb_Qj3mRA) by [Pieter Levels](https://twitter.com/levelsio)
+
+  Probably one of the most known indie hackers of the last couple of years talks about how to turn our sideprojects into profitable businesses. Very straight to the point, Pieter always provides a lot of insightful thoughts. By the way, don't get fooled by his lifestyle, his success is 500% work. 
+  
+- [Marketing for Minorities](http://businessofsoftware.org/2011/03/hello-ladies-patrick-mckenzie-at-business-of-software-2010-marketing-to-minorities/) by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
+
+  Lightning 7 minute talk by one of the most respected indie developers. The point Patrick is trying to make, is that solo developers can target way smaller and niche markets which might have low competition and ve very profitable from a solo business point of view.
+  
+- [Talking about CoderPad and business at Dropbox](https://www.youtube.com/watch?v=J8UwcyYT3z0) by [Vincent Woo](https://twitter.com/fulligin?lang=ca)
+
+  Talk on building a successful small solo business.
+  
+#####
+
+- [Talks from the MicroConf](https://vimeo.com/user12790628/videos)
 
 ### Posts
 
@@ -163,7 +181,7 @@ https://www.indiehackers.com/blog
 ### Events
 
 - MicroConf
-- saas event
+- https://b2brocks.co/
 - http://baconbiz.com/
 - http://businessofsoftware.org/
 http://peersconf.com/
@@ -171,7 +189,7 @@ http://peersconf.com/
 ### Books
 
 - Start Small, Stay Small
-- tyler tringas
+- tyler tringas https://tylertringas.com/micro-saas-ebook/
 - levels
 - getting things done - dhh
 - rework
