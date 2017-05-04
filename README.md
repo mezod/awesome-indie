@@ -37,7 +37,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 - [Courses](#courses)
 - [Specific Needs](#specific-needs)
 
-#### Communities
+### Communities
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
   Learn from profitable businesses and side projects. IndieHackers is probably the catalyst for this new wave of interest on making an independent income. It is a collection of interviews to successful developers about their products. IndieHackers has been especially interesting to follow since it's been an indie project itself. [Courtland](https://twitter.com/csallen?lang=ca) has been very transparent about [how he built it](https://www.indiehackers.com/blog). The last news make one think that the forum/community will grow.
@@ -70,21 +70,21 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
 <!-- - lobsters -->
 
-#### Newsletters
+### Newsletters
 
 - indiehackers
 - indie
 - hackernoon
 - ?
 
-#### Podcasts
+### Podcasts
 
 - indiehackers
 - bootstrapped.fm
 - thesaasbootstrapper
 - product people
 
-#### Talks
+### Talks
 
 - tyler tringas
 - levels
@@ -92,7 +92,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 - vincent woo
 - walling
 
-#### Posts
+### Posts
 
 - 12 startups in 12 months - levels
 - patio11's
@@ -100,7 +100,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 - clifford oravec? https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 - algun de medium?
 
-#### Blogs
+### Blogs
 
 - patio11
 - levels
@@ -114,18 +114,18 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 - sivers?
 - joel
 
-#### Case Studies
+### Case Studies
 
 https://www.indiehackers.com/blog
 
-#### Events
+### Events
 
 - MicroConf
 - saas event
 - http://baconbiz.com/
 - http://businessofsoftware.org/
 
-#### Books
+### Books
 
 - Start Small, Stay Small
 - tyler tringas
@@ -137,13 +137,13 @@ https://www.indiehackers.com/blog
 https://groundera.com/
 founders at work
 
-#### Tools
+### Tools
 
 - link to free-for-dev
 - link a tools of trade
 - link a selfhosted
 
-#### People
+### People
 
 - patio11
 - levels
@@ -154,7 +154,7 @@ founders at work
 - courtland allen
 - maciej
 
-#### Courses
+### Courses
 
 WAARRRRRRNING $$$ haven't tried it
 
