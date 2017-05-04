@@ -20,7 +20,6 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 <!-- In general, I'd be wary of the several paid content-like products specially targetted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible. -->
 
 ## Table of Contents
-
 - [Communities](#communities)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
