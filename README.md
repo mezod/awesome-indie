@@ -21,6 +21,9 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
 ## Table of Contents
 
+- [Communities](#communities)
+- [Newsletters](#newsletters)
+
 #### Communities
 - [IndieHackers](https://www.indiehackers.com/businesses)
 
