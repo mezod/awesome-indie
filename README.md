@@ -40,31 +40,31 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
   Learn from profitable businesses and side projects. IndieHackers is probably the catalyst for this new wave of interest on making an independent income. It is a collection of interviews to successful developers about their products. IndieHackers has been especially interesting to follow since it's been an indie project itself. [Courtland](https://twitter.com/csallen?lang=ca) has been very transparent about [how he built it](https://www.indiehackers.com/blog). The last news make one think that the forum/community will grow.
 
-- [Barnacl.es](https://barnacl.es/)
+- **[Barnacl.es](https://barnacl.es/)**
 
   News for bootstrappers, not VC hackers. Hacker-News like forum. [pushcx](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software](https://github.com/jcs/lobsters), which is always a thing to appreciate!
 
-- [bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)
+- **[bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)**
 
   A forum for bootstrappers. Started in 2013 by [Ian](https://twitter.com/ianlandsman) and [Andrey](https://twitter.com/andrey_butov) as a continuation to the now defunct [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).
   
-- ##passiveincome on freenode
+- **##passiveincome** on freenode
 
   [matbram](https://news.ycombinator.com/user?id=matbram) created this channel on the freenode IRC network in early 2017 and it has been pretty active and growing ever since.
   
-- [HackerNews](https://news.ycombinator.com/)
+- **[HackerNews](https://news.ycombinator.com/)**
 
   News for hackers, mostly technology and entrepreneurship. Not specific to indie devs but a must for everyone interested in computer science, creating products and making money. A lot of indie devs lurking around.
   
-- [ProductPeople](https://productpeople.club/) [$]
+- **[ProductPeople](https://productpeople.club/)** [$]
 
   Exclusive community for indie makers run by [Justin](https://twitter.com/mijustin). Apparently there's a waitlist and I can't figure out how much is it. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targetting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
 
 ##### Other
-- [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/) - Not exclusive to indies/bootstrappers but still with relevant content for us.
-- [Bootstrapped Slack](https://bootstrapped.slack.com) - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
-- [r/SideProject](https://www.reddit.com/r/SideProject/) - Quite active
-- [Sideprojectxyz](https://sideprojectxyz.slack.com) - Slack community for people working on their sideprojects.
+- **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
+- **[Bootstrapped Slack](https://bootstrapped.slack.com)** - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
+- **[r/SideProject](https://www.reddit.com/r/SideProject/)** - Quite active
+- **[Sideprojectxyz](https://sideprojectxyz.slack.com)** - Slack community for people working on their sideprojects.
 
 <!-- - lobsters -->
 
