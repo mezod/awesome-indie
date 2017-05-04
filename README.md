@@ -72,17 +72,29 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
 ### Newsletters
 
-- indiehackers
-- indie
-- hackernoon
-- ?
+- **[IndieHackers](https://www.indiehackers.com/businesses)**
+Newsletter containing the newest interviews of the site and also thread from the forum. Normally ships on thursdays. By [Courtland](https://twitter.com/csallen?lang=ca).
+
+- **[Bootstrappers.io](https://bootstrappers.io/)**
+Weekly digest of the best user-submitted articles featured on bootstrapped.io. Curated by [Darren](https://twitter.com/ninjamonk)
+
+- **[Indie](https://justinjackson.ca/indie/)**
+Stories, lessons, and inspiration for independent makers. By [Justin](https://twitter.com/mijustin).
 
 ### Podcasts
 
 - indiehackers
 - bootstrapped.fm
 - thesaasbootstrapper
-- product people
+- **[Product People](http://www.productpeople.tv/)**
+A podcast focused on great products and the people who make them. Since 2012. By [Justin](https://twitter.com/mijustin).
+
+- **[bootstrapped.fm](http://bootstrapped.fm/)**
+ Started in 2013 by [Ian](https://twitter.com/ianlandsman) and [Andrey](https://twitter.com/andrey_butov). 
+
+- **[IndieHackers](https://www.indiehackers.com/businesses)**
+Newsletter containing the newest interviews of the site and also thread from the forum. Normally ships on thursdays. By [Courtland](https://twitter.com/csallen?lang=ca).
+
 
 ### Talks
 
@@ -99,6 +111,12 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 - tyler tringas
 - clifford oravec? https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
 - algun de medium?
+
+##### Others
+Posts on the topic are quite frequent on:
+
+- hackernoon https://hackernoon.com/
+- ?
 
 ### Blogs
 
