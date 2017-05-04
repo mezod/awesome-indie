@@ -109,7 +109,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
-  Podcast where [Courtland Allen](https://twitter.com/csallen?lang=ca) interviews some of the most succesful indiehackers featured on the site. Started in early 2017 already has 12 episodes with great content and very carefully crafted related notes and links.
+  Podcast where [Courtland Allen](https://twitter.com/csallen?lang=ca) interviews some of the most successful indiehackers featured on the site. Started in early 2017 already has 12 episodes with great content and very carefully crafted related notes and links.
   
 - **[The SaaS Bootstrapper](http://thesaasbootstrapper.com/)**
 
