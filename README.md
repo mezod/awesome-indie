@@ -13,7 +13,7 @@ All this resources might help inspire you and put you on the right track but in 
 
 Contributions are more than welcome.
 
-[Reach me on twitter!](https://twitter.com/mezood)
+[mezod](https://twitter.com/mezood)
 
 **Notes:**
 
@@ -40,27 +40,27 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 ### Communities
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
-  Learn from profitable businesses and side projects. IndieHackers is probably the catalyst for this new wave of interest on making an independent income. It is a collection of interviews to successful developers about their products. IndieHackers has been especially interesting to follow since it's been an indie project itself. [Courtland](https://twitter.com/csallen?lang=ca) has been very transparent about [how he built it](https://www.indiehackers.com/blog). The last news make one think that the forum/community will grow.
+  Learn from profitable businesses and side projects. IndieHackers is probably the catalyst for this new wave of interest on making an independent income. It is a collection of interviews to successful developers about their products. IndieHackers has been especially interesting to follow since it's been an indie project itself. [Courtland Allen](https://twitter.com/csallen?lang=ca) has been very transparent about [how he built it](https://www.indiehackers.com/blog). The last news make one think that the forum/community will grow.
 
 - **[Barnacl.es](https://barnacl.es/)**
 
-  News for bootstrappers, not VC hackers. Hacker-News like forum. [pushcx](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software](https://github.com/jcs/lobsters), which is always a thing to appreciate!
+  News for bootstrappers, not VC hackers. Hacker-News like forum. [Peter Bhat Harkins](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software](https://github.com/jcs/lobsters), which is always a thing to appreciate!
 
 - **[bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)**
 
-  A forum for bootstrappers. Started in 2013 by [Ian](https://twitter.com/ianlandsman) and [Andrey](https://twitter.com/andrey_butov) as a continuation to the now defunct [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).
+  A forum for bootstrappers. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov) as a continuation to the now defunct [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).
   
 - **##passiveincome** on freenode
 
-  [matbram](https://news.ycombinator.com/user?id=matbram) created this channel on the freenode IRC network in early 2017 and it has been pretty active and growing ever since.
+  [Matthew Mallard](https://news.ycombinator.com/user?id=matbram) created this channel on the freenode IRC network in early 2017 and it has been pretty active and growing ever since.
   
 - **[HackerNews](https://news.ycombinator.com/)**
 
-  News for hackers, mostly technology and entrepreneurship. Not specific to indie devs but a must for everyone interested in computer science, creating products and making money. A lot of indie devs lurking around.
+  News for hackers, mostly technology and entrepreneurship. Not specific to indie devs but a must for everyone interested in computer science, creating products and making money. A lot of indie devs lurking around. Started by [Paul Graham](https://twitter.com/paulg).
   
 - **[ProductPeople.club](https://productpeople.club/)** [$]
 
-  Exclusive community for indie makers run by [Justin](https://twitter.com/mijustin). Apparently there's a waitlist and I can't figure out how much is it. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targetting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
+  Exclusive community for indie makers run by [Justin Jackson](https://twitter.com/mijustin). Apparently there's a waitlist and I can't figure out how much is it. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targetting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
 
 ##### Other
 - **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
@@ -72,29 +72,50 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
 ### Newsletters
 
-- **[IndieHackers](https://www.indiehackers.com/businesses)**
-Newsletter containing the newest interviews of the site and also thread from the forum. Normally ships on thursdays. By [Courtland](https://twitter.com/csallen?lang=ca).
-
 - **[Bootstrappers.io](https://bootstrappers.io/)**
-Weekly digest of the best user-submitted articles featured on bootstrapped.io. Curated by [Darren](https://twitter.com/ninjamonk)
+
+  Weekly digest of the best user-submitted articles featured on bootstrapped.io. Curated by [Darren Stuart](https://twitter.com/ninjamonk)
+
+- **[IndieHackers](https://www.indiehackers.com/businesses)**
+
+  Newsletter containing the newest interviews of the site and also thread from the forum. Normally ships on thursdays. By [Courtland Allen](https://twitter.com/csallen?lang=ca).
 
 - **[Indie](https://justinjackson.ca/indie/)**
-Stories, lessons, and inspiration for independent makers. By [Justin](https://twitter.com/mijustin).
+
+  Stories, lessons, and inspiration for independent makers. By [Justin Jackson](https://twitter.com/mijustin).
+  
+- **[The SaaS Bootstrapper](http://thesaasbootstrapper.com/resources/)**
+
+  Content about bootstrapping, SaaS, growth, marketing, and other startup topics curated by [Mac Martine](http://macmartine.com/).
+
 
 ### Podcasts
 
-- indiehackers
-- bootstrapped.fm
-- thesaasbootstrapper
+- **[Startups for the rest of us](http://www.startupsfortherestofus.com/)**
+
+  Started in 2010 by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder) have covered almost everything there is to cover in micropreneurship. [Here](http://www.startupsfortherestofus.com/greatest-hits) you can find a 'best of' selection of their podcast.
+
 - **[Product People](http://www.productpeople.tv/)**
-A podcast focused on great products and the people who make them. Since 2012. By [Justin](https://twitter.com/mijustin).
+
+  A podcast focused on great products and the people who make them. Since 2012. By [Justin Jackson](https://twitter.com/mijustin).
 
 - **[bootstrapped.fm](http://bootstrapped.fm/)**
- Started in 2013 by [Ian](https://twitter.com/ianlandsman) and [Andrey](https://twitter.com/andrey_butov). 
+
+  Several different topics around bootstrapping online businesses. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov). 
 
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
-Newsletter containing the newest interviews of the site and also thread from the forum. Normally ships on thursdays. By [Courtland](https://twitter.com/csallen?lang=ca).
 
+  Podcast where [Courtland Allen](https://twitter.com/csallen?lang=ca) interviews some of the most succesful indiehackers featured on the site. Started in early 2017 already has 12 episodes with great content and very carefully crafted related notes and links.
+  
+- **[The SaaS Bootstrapper](http://thesaasbootstrapper.com/)**
+
+  Interviews with entrepreneurs and bootstrappers about bootstrapping, SaaS, growth, marketing, and other startup topics. By [Mac Martine](http://macmartine.com/).
+  
+- **[Smart Passive Income](https://www.smartpassiveincome.com/podcasts/)**
+
+  Not only for developers, but seems to have a lot of great content. By [Pat Flynn](https://twitter.com/patflynn).
+
+  
 
 ### Talks
 
@@ -142,6 +163,7 @@ https://www.indiehackers.com/blog
 - saas event
 - http://baconbiz.com/
 - http://businessofsoftware.org/
+http://peersconf.com/
 
 ### Books
 
@@ -154,9 +176,13 @@ https://www.indiehackers.com/blog
 - Badass by Kathy Sierra recommended by pushcx
 https://groundera.com/
 founders at work
+http://www.singlefounderhandbook.com/
+
+http://thesaasbootstrapper.com/book-list/
 
 ### Tools
 
+http://thesaasbootstrapper.com/saas-startup-resources/
 - link to free-for-dev
 - link a tools of trade
 - link a selfhosted
