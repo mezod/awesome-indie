@@ -216,30 +216,35 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Maciej Cegłowski's blog for his bookmarking tool, pinboard, useful in showing the growth of a successful solo business.
   
-##### Other
+##### Others
   
 - [The Foundation](https://thefoundation.com/blog) - Turning the process of creating a B2B SaaS business into a formula.
 - [Price Intelligently](http://www.priceintelligently.com/blog) - Blog focused on the economics of the SaaS business model and SaaS pricing.
-- [Moz Blog](https://moz.com/blog) For anything related to SEO.
-
-
-##### Others
-
-- [Paul Graham](http://www.paulgraham.com/articles.html) - A lot of content for big funded startups, but still relevant to bootstrappers
-- [John O'Nolan](https://john.onolan.org/) - especially the older posts
-- [Derek Sivers](https://sivers.org/blog)
-
-
+- [Moz Blog](https://moz.com/blog) - For anything related to SEO.
+- [Paul Graham](http://www.paulgraham.com/articles.html) - A lot of content for big funded startups, but still relevant to bootstrappers.
+- [John O'Nolan](https://john.onolan.org/) - Especially the older posts on how he started ghost.
 
 ### Case Studies
 
-https://www.indiehackers.com/blog
+- [IndieHackers](https://www.indiehackers.com/blog)
 
-https://levels.io/product-hunt-hacker-news-number-one/
+  From capturing a trend to getting acquired in less than one year.
 
-https://www.bugmuncher.com/blog/
+- [NomadList](https://levels.io/product-hunt-hacker-news-number-one/)
 
-http://37signals.com/bootstrapped
+  Solving your own pain, representing a movement, moving fast and working hard by a serial bootstrapper.
+
+- [Bugmuncher](https://www.bugmuncher.com/blog/)
+
+  Transparent growth and financial reports by a solo saas founder.
+
+- [37signals](http://37signals.com/bootstrapped)
+
+  A collection of bootstrapped companies by the people at 37 signals.
+
+- [Baremetrics](https://baremetrics.com/blog)
+
+  An example of riding the wave.
 
 ### Events
 
@@ -290,6 +295,7 @@ In the future, I'd like to have a list of resources for more specific needs or F
  <!-- https://promotehour.com/ -->
  <!-- awesome places to post your startup -->
  - 'how to validate my idea'
+ <!-- https://training.kalzumeus.com/newsletters/archive/validating_product_ideas -->
  - 'where to advertise my project'
  - 'what paid ads work better'
  - 'types of digital products'
