@@ -136,13 +136,13 @@ If [$], it means it's not free and probably means I haven't tried it but still d
   
 - [Marketing for Minorities](http://businessofsoftware.org/2011/03/hello-ladies-patrick-mckenzie-at-business-of-software-2010-marketing-to-minorities/) by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
 
-  Lightning 7 minute talk by one of the most respected indie developers. The point Patrick is trying to make, is that solo developers can target way smaller and niche markets which might have low competition and ve very profitable from a solo business point of view.
+  Lightning 7 minute talk by one of the most respected indie developers. The point Patrick is trying to make, is that solo developers can target way smaller and niche markets which might have low competition and be very profitable from a solo business point of view.
   
 - [Talking about CoderPad and business at Dropbox](https://www.youtube.com/watch?v=J8UwcyYT3z0) by [Vincent Woo](https://twitter.com/fulligin?lang=ca)
 
   Talk on building a successful small solo business.
   
-#####
+##### Other
 
 - [Talks from the MicroConf](https://vimeo.com/user12790628/videos)
 
