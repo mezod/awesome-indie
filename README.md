@@ -23,6 +23,18 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
 - [Communities](#communities)
 - [Newsletters](#newsletters)
+- [Podcasts](#podcasts)
+- [Talks](#talks)
+- [Posts](#posts)
+- [Blogs](#blogs)
+- [Case Studies](#case-studies)
+- [Events](#events)
+- [Books](#books)
+- [Tools](#tools)
+- [People](#people)
+- [Courses](#courses)
+
+- [Specific Needs](#specific-needs)
 
 #### Communities
 - [IndieHackers](https://www.indiehackers.com/businesses)
