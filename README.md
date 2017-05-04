@@ -101,7 +101,11 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
 - **[bootstrapped.fm](http://bootstrapped.fm/)**
 
-  Several different topics around bootstrapping online businesses. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov). 
+  Several different topics around bootstrapping online businesses. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov).
+  
+- **[Entreprogrammers](http://entreprogrammers.com/)**
+
+  A podcast for developreneurs. Run by [Josh Earl](https://twitter.com/josh_earl), [John Sonmez](https://twitter.com/jsonmez), [Derick Bailey](https://twitter.com/derickbailey) and [Charles Max Wood](https://twitter.com/cmaxw) since 2014.
 
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
@@ -113,10 +117,9 @@ If [$], it means it's not free and probably means I haven't tried it but still d
   
 - **[Smart Passive Income](https://www.smartpassiveincome.com/podcasts/)**
 
-  Not only for developers, but seems to have a lot of great content. By [Pat Flynn](https://twitter.com/patflynn).
+  Not really specific to developers but with great content on the several types of products to make a living online. By [Pat Flynn](https://twitter.com/patflynn).
 
   
-
 ### Talks
 
 - tyler tringas
