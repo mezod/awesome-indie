@@ -148,14 +148,40 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
 ### Posts
 
-- 12 startups in 12 months - levels
-- patio11's
-- tyler tringas
-- clifford oravec? https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1
-- algun de medium?
+- [I’m Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/) by [Pieter Levels](https://twitter.com/levelsio)
+
+  The challenge that started it all for Pieter. It inspired me to do something similar. What matters is to create and ship a lot, learning in the process, until something is worth pushing further.
+
+- [Don't Call Yourself A Programmer, And Other Career Advice](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
+
+  Patrick has written over 500 posts and I have obviously not read all of them, but of the many I've read, I chose this one...
+
+- [Running A Software Business On 5 Hours A Week](http://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/) by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
+
+  ...and this one too :D
+
+- [Storemapper: Bootstrapped to $50,000/year in 2 years (with live metrics)](https://tylertringas.com/storemapper-bootstrapped-to-50000year-in-2-years-with-live-metrics/) by [Tyler Tringas](https://twitter.com/tylertringas)
+
+  This is just an example of a business more than one would be happy with :-) Besides liking how Tyler shares his story building Storemapper, I think he always maximizes for valuable content.
+
+- [Why You Should Do A Tiny Product First](https://unicornfree.com/2013/why-you-should-do-a-tiny-product-first) by [Amy Hoy](https://twitter.com/amyhoy)
+
+  This is the first of a series by Amy Hoy. I'll be honest, I don't even remember what this was about, just that I found it worth my time. Oh wait, yeah, Amy told me not to code, at least at first. I haven't still gotten there...
+
+- [The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1) by [Clifford Oravec](https://twitter.com/cliffordoravec)
+
+  Another series on what solo bootstrapping is about, with an offensive twist. 
+
+- [How to get more customers](https://medium.com/product-people/how-to-get-more-customers-54f64220e430) by [Justin Jackson](https://twitter.com/mijustin).
+
+  This is a bit of a too specific topic for this general selection of posts, but the hell, you need to read it before it's too late. Ok, I'm starting to sound marketingy :D 
+
+- [Indie Startups: The Ingredients of Success](https://hackernoon.com/indie-startups-the-ingredients-of-success-74531fe3a019) by [fpgaminer](https://hackernoon.com/@fpgaminer)
+
+  Numbers with meaning. fpgaminer analyzed all the products featured on IndieHackers, extracted some statistics and got to some conclusions. Worth reading it also for the approach.
 
 ##### Others
-Posts on the topic are quite frequent on:
+There's obviously a million posts on the topic. I'm sure this is not a good selection but it'll get you started. Here you can find some more:
 
 - hackernoon https://hackernoon.com/
 - ?
@@ -173,6 +199,7 @@ Posts on the topic are quite frequent on:
 - pg
 - sivers?
 - joel
+- http://37signals.com/bootstrapped
 
 ### Case Studies
 
