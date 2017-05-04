@@ -36,7 +36,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 - [Specific Needs](#specific-needs)
 
 #### Communities
-- [IndieHackers](https://www.indiehackers.com/businesses)
+- **[IndieHackers](https://www.indiehackers.com/businesses)**
 
   Learn from profitable businesses and side projects. IndieHackers is probably the catalyst for this new wave of interest on making an independent income. It is a collection of interviews to successful developers about their products. IndieHackers has been especially interesting to follow since it's been an indie project itself. [Courtland](https://twitter.com/csallen?lang=ca) has been very transparent about [how he built it](https://www.indiehackers.com/blog). The last news make one think that the forum/community will grow.
 
