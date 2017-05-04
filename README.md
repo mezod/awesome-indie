@@ -11,7 +11,9 @@ Going indie does have lots of lifestyle perks :)
 
 All this resources might help inspire you and put you on the right track but in the end what matters is to MAKE and TRY stuff. So devour this content responsibly :)
 
-Contributions are more than welcome. [I'm mezood on twitter](https://twitter.com/mezood)!
+Contributions are more than welcome.
+
+[Reach me on twitter!](https://twitter.com/mezood)
 
 **Notes:**
 
