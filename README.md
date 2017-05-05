@@ -125,191 +125,183 @@ If [$], it means it's not free and probably means I haven't tried it but still d
   
 ### Talks
 
-- [David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY) by [David Heinemeier Hansson](https://twitter.com/dhh)
+- **[David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY)** by [David Heinemeier Hansson](https://twitter.com/dhh)
 
   Bootstrapping as the better alternative to VC funded startups.
   
-- [Tyler Tringas on Storemapper and MicroSaaS](https://www.youtube.com/watch?v=i3d1asTrWUQ) by [Tyler Tringas](https://twitter.com/tylertringas)
+- **[Tyler Tringas on Storemapper and MicroSaaS](https://www.youtube.com/watch?v=i3d1asTrWUQ)** by [Tyler Tringas](https://twitter.com/tylertringas)
 
   15 minutes filled with a lot of valuable information and insights where Tyler presents the concept of Micro-SaaS and tells us his story.
   
-- [Bootstrapping Side Projects To Profit by Pieter Levels](https://www.youtube.com/watch?v=m3nb_Qj3mRA) by [Pieter Levels](https://twitter.com/levelsio)
+- **[Bootstrapping Side Projects To Profit by Pieter Levels](https://www.youtube.com/watch?v=m3nb_Qj3mRA)** by [Pieter Levels](https://twitter.com/levelsio)
 
   Probably one of the most known indie hackers of the last couple of years talks about how to turn our sideprojects into profitable businesses. Very straight to the point, Pieter always provides a lot of insightful thoughts. By the way, don't get fooled by his lifestyle, his success is 500% work. 
   
-- [Marketing for Minorities](http://businessofsoftware.org/2011/03/hello-ladies-patrick-mckenzie-at-business-of-software-2010-marketing-to-minorities/) by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
+- **[Marketing for Minorities](http://businessofsoftware.org/2011/03/hello-ladies-patrick-mckenzie-at-business-of-software-2010-marketing-to-minorities/)** by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
 
   Lightning 7 minute talk by one of the most respected indie developers. The point Patrick is trying to make, is that solo developers can target way smaller and niche markets which might have low competition and be very profitable from a solo business point of view.
   
-- [Talking about CoderPad and business at Dropbox](https://www.youtube.com/watch?v=J8UwcyYT3z0) by [Vincent Woo](https://twitter.com/fulligin?lang=ca)
+- **[Talking about CoderPad and business at Dropbox](https://www.youtube.com/watch?v=J8UwcyYT3z0)** by [Vincent Woo](https://twitter.com/fulligin?lang=ca)
 
   Talk on building a successful small solo business.
   
 ##### Other
 
-- [Talks from the MicroConf](https://vimeo.com/user12790628/videos)
-- [Talks from the BaconBizConf](http://baconbiz.com/)
-- [Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)
+- **[Talks from the MicroConf](https://vimeo.com/user12790628/videos)**
+- **[Talks from the BaconBizConf](http://baconbiz.com/)**
+- **[Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)**
 
 ### Posts
 
-- [I’m Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/) by [Pieter Levels](https://twitter.com/levelsio)
+- **[I’m Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/)** by [Pieter Levels](https://twitter.com/levelsio)
 
   The challenge that started it all for Pieter. It inspired me to do something similar. What matters is to create and ship a lot, learning in the process, until something is worth pushing further.
 
-- [Don't Call Yourself A Programmer, And Other Career Advice](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
+- **[Don't Call Yourself A Programmer, And Other Career Advice](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)** by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
 
   Patrick has written over 500 posts and I have obviously not read all of them, but of the many I've read, I chose this one...
 
-- [Running A Software Business On 5 Hours A Week](http://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/) by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
+- **[Running A Software Business On 5 Hours A Week](http://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/)** by [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
 
   ...and this one too :D
 
-- [Storemapper: Bootstrapped to $50,000/year in 2 years (with live metrics)](https://tylertringas.com/storemapper-bootstrapped-to-50000year-in-2-years-with-live-metrics/) by [Tyler Tringas](https://twitter.com/tylertringas)
+- **[Storemapper: Bootstrapped to $50,000/year in 2 years (with live metrics)](https://tylertringas.com/storemapper-bootstrapped-to-50000year-in-2-years-with-live-metrics/)** by [Tyler Tringas](https://twitter.com/tylertringas)
 
   This is just an example of a business more than one would be happy with :-) Besides liking how Tyler shares his story building Storemapper, I think he always maximizes for valuable content.
 
-- [Why You Should Do A Tiny Product First](https://unicornfree.com/2013/why-you-should-do-a-tiny-product-first) by [Amy Hoy](https://twitter.com/amyhoy)
+- **[Why You Should Do A Tiny Product First](https://unicornfree.com/2013/why-you-should-do-a-tiny-product-first)** by [Amy Hoy](https://twitter.com/amyhoy)
 
   This is the first of a series by Amy Hoy. I'll be honest, I don't even remember what this was about, just that I found it worth my time. Oh wait, yeah, Amy told me not to code, at least at first. I haven't still gotten there...
 
-- [The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1) by [Clifford Oravec](https://twitter.com/cliffordoravec)
+- **[The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1)** by [Clifford Oravec](https://twitter.com/cliffordoravec)
 
   Another series on what solo bootstrapping is about, with an offensive twist. 
 
-- [How to get more customers](https://medium.com/product-people/how-to-get-more-customers-54f64220e430) by [Justin Jackson](https://twitter.com/mijustin).
+- **[How to get more customers](https://medium.com/product-people/how-to-get-more-customers-54f64220e430)** by [Justin Jackson](https://twitter.com/mijustin).
 
   This is a bit of a too specific topic for this general selection of posts, but the hell, you need to read it before it's too late. Ok, I'm starting to sound marketingy :D 
 
-- [Indie Startups: The Ingredients of Success](https://hackernoon.com/indie-startups-the-ingredients-of-success-74531fe3a019) by [fpgaminer](https://hackernoon.com/@fpgaminer)
+- **[Indie Startups: The Ingredients of Success](https://hackernoon.com/indie-startups-the-ingredients-of-success-74531fe3a019)** by [fpgaminer](https://hackernoon.com/@fpgaminer)
 
   Numbers with meaning. fpgaminer analyzed all the products featured on IndieHackers, extracted some statistics and got to some conclusions. Worth reading it also for the approach.
 
 ##### Others
 There's obviously a million posts on the topic. I'm sure this is not a good selection but it'll get you started. Here you can find some more:
 
-- [Bootstrappers.io](https://bootstrappers.io/)
-- [HackerNoon](https://hackernoon.com/)
-- [HackerNews](https://news.ycombinator.com/)
-- [7 Articles for Indie Devs to Start Shipping](https://hackernoon.com/7-articles-for-indie-devs-to-start-shipping-12b22f5e5660) - great selection by [Alex Moskovski](https://twitter.com/mskvsk)
+- **[Bootstrappers.io](https://bootstrappers.io/)**
+- **[HackerNoon](https://hackernoon.com/)**
+- **[HackerNews](https://news.ycombinator.com/)**
+- **[7 Articles for Indie Devs to Start Shipping](https://hackernoon.com/7-articles-for-indie-devs-to-start-shipping-12b22f5e5660)** - great selection by [Alex Moskovski](https://twitter.com/mskvsk)
 
 ### Blogs
 
-- [Patrick Mackenzie](http://www.kalzumeus.com/)
+- **[Patrick Mackenzie](http://www.kalzumeus.com/)**
 
   Over 500 posts that show how Patrick went from being a software engineer to running successful software businesses.
   
-- [Rob Walling](http://www.softwarebyrob.com/)
+- **[Rob Walling](http://www.softwarebyrob.com/)**
 
   Lessons Learned by a Solo Entrepreneur.
   
-- [Pieter Levels](https://levels.io/)
+- **[Pieter Levels](https://levels.io/)**
 
   Lots of advice on bootstrapping businesses if you dig between Pieter's multiple interests.
   
-- [Tyler Tringas](https://tylertringas.com/)
+- **[Tyler Tringas](https://tylertringas.com/)**
 
   On SaaS and his journey with Storemapper.
   
-- [Joel Spolsky](https://www.joelonsoftware.com/)
+- **[Joel Spolsky](https://www.joelonsoftware.com/)**
 
   Software and business have always been topics Joel has covered. StackOverflow and Trello prove he knows what he's talking about.
   
-- [Signal v. Noise](https://m.signalvnoise.com/)
+- **[Signal v. Noise](https://m.signalvnoise.com/)**
 
   The blog of the basecamp people, mostly David Heinemeier Hansson and Jason Fried, on business and how to run bootstrapped companies.
   
-- [Pinboard](https://blog.pinboard.in/)
+- **[Pinboard](https://blog.pinboard.in/)**
 
   Maciej Cegłowski's blog for his bookmarking tool, pinboard, useful in showing the growth of a successful solo business.
   
 ##### Others
   
-- [The Foundation](https://thefoundation.com/blog) - Turning the process of creating a B2B SaaS business into a formula.
-- [Price Intelligently](http://www.priceintelligently.com/blog) - Blog focused on the economics of the SaaS business model and SaaS pricing.
-- [Moz Blog](https://moz.com/blog) - For anything related to SEO.
-- [Paul Graham](http://www.paulgraham.com/articles.html) - A lot of content for big funded startups, but still relevant to bootstrappers.
-- [John O'Nolan](https://john.onolan.org/) - Especially the older posts on how he started ghost.
+- **[The Foundation](https://thefoundation.com/blog)** - Turning the process of creating a B2B SaaS business into a formula.
+- **[Price Intelligently](http://www.priceintelligently.com/blog)** - Blog focused on the economics of the SaaS business model and SaaS pricing.
+- **[Moz Blog](https://moz.com/blog)** - For anything related to SEO.
+- **[Paul Graham](http://www.paulgraham.com/articles.html)** - A lot of content for big funded startups, but still relevant to bootstrappers.
+- **[John O'Nolan](https://john.onolan.org/)** - Especially the older posts on how he started ghost.
 
 ### Case Studies
 
-- [IndieHackers](https://www.indiehackers.com/blog)
+- **[IndieHackers](https://www.indiehackers.com/blog)**
 
   From capturing a trend to getting acquired in less than one year.
 
-- [NomadList](https://levels.io/product-hunt-hacker-news-number-one/)
+- **[NomadList](https://levels.io/product-hunt-hacker-news-number-one/)**
 
   Solving your own pain, representing a movement, moving fast and working hard by a serial bootstrapper.
 
-- [Bugmuncher](https://www.bugmuncher.com/blog/)
+- **[Bugmuncher](https://www.bugmuncher.com/blog/)**
 
   Transparent growth and financial reports by a solo saas founder.
 
-- [37signals](http://37signals.com/bootstrapped)
+- **[37signals](http://37signals.com/bootstrapped)**
 
   A collection of bootstrapped companies by the people at 37 signals.
 
-- [Baremetrics](https://baremetrics.com/blog)
+- **[Baremetrics](https://baremetrics.com/blog)**
 
   An example of riding the wave.
 
 ### Events
 
-- [MicroConf](http://www.microconf.com/) [$]
+- **[MicroConf](http://www.microconf.com/)** [$]
 
   "The worlds biggest conference for the worlds smallest self-funded software companies". It has two editions, one more focused to starters, and another one focused on growth. Both last two days. Las Vegas. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
   
-- [MicroConf Europe](http://www.microconfeurope.com/) [$]
+- **[MicroConf Europe](http://www.microconfeurope.com/)** [$]
 
   MicroConf's european edition. Barcelona. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
   
-- [BaconBizConf](http://baconbiz.com/) [$]
+- **[BaconBizConf](http://baconbiz.com/)** [$]
 
   "An alliance for B2B bootstrappers". Philadelphia. By [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
   
 ##### Not specific to indie founders:
 
-- [Business of Software](http://businessofsoftware.org/) [$]
+- **[Business of Software](http://businessofsoftware.org/)** [$]
 
   "Business of Software is not based in Silicon Valley for good reason. It is about building long term, sustainable software businesses. ...a thoughtful conference, where people come to listen and learn, not self promote and shout". Boston. [Team behind BoS](http://thebln.com/team/).
   
-- [Business of Software Europe](http://businessofsoftware.eu/) [$]
+- **[Business of Software Europe](http://businessofsoftware.eu/)** [$]
 
   BoS european edition. London. [Team behind BoS](http://thebln.com/team/).
 
-- [B2B Rocks](https://b2brocks.co/) [$]
+- **[B2B Rocks](https://b2brocks.co/)** [$]
 
   "Leading conferences for B2B and SaaS startups". Popular business model for indie devs. Paris. Sydney.
 
-- [PeersConf](http://peersconf.com/) [$]
+- **[PeersConf](http://peersconf.com/)** [$]
 
   "A conference for those who make the web, and make it their business". Seattle (changes every year). By [Jessica D'Amico](https://twitter.com/justjessdc).
 
 ### Books
 
-- [Start Small, Stay Small](https://www.amazon.com/Start-Small-Stay-Developers-Launching-ebook/dp/B003YH9MMI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493983910&sr=1-1&keywords=start+small+stay+small) [$] by [Rob Walling](https://twitter.com/robwalling).
-- [Building Micro-SaaS Businesses](https://tylertringas.com/micro-saas-ebook/) by [Tyler Tringas](https://twitter.com/tylertringas).
-- [The Single Founder Handbook](http://www.singlefounderhandbook.com/) [$] by [Mike Taber](https://twitter.com/SingleFounder).
-- [Getting Real](https://gettingreal.37signals.com/) by [37signals](https://37signals.com)
-- [MAKE](https://makebook.io/) [$] by [Pieter Levels](https://twitter.com/levelsio)
-- [Rework](https://37signals.com/rework) [$] by [37signals](https://37signals.com)
-- [Just Fucking Ship](https://unicornfree.com/just-fucking-ship/) [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman). 
+- **[Start Small, Stay Small](https://www.amazon.com/Start-Small-Stay-Developers-Launching-ebook/dp/B003YH9MMI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493983910&sr=1-1&keywords=start+small+stay+small)** [$] by [Rob Walling](https://twitter.com/robwalling).
+- **[Building Micro-SaaS Businesses](https://tylertringas.com/micro-saas-ebook/)** by [Tyler Tringas](https://twitter.com/tylertringas).
+- **[The Single Founder Handbook](http://www.singlefounderhandbook.com/)** [$] by [Mike Taber](https://twitter.com/SingleFounder).
+- **[Getting Real](https://gettingreal.37signals.com/)** by [37signals](https://37signals.com)
+- **[MAKE](https://makebook.io/)** [$] by [Pieter Levels](https://twitter.com/levelsio)
+- **[Rework](https://37signals.com/rework)** [$] by [37signals](https://37signals.com)
+- **[Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)** [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman). 
 
 ##### Other
 
-- [Groundera.com](https://groundera.com/) - A collection of indie books, most of them free, for entrepreneurs. By [Philipp](https://groundera.com/about).
-  
-- [The SaaS Bootstrapper book list](http://thesaasbootstrapper.com/book-list/) - Collection curated by [Mac Martine](http://macmartine.com/).
-  
-- [Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18/ref=sr_1_1?s=books&ie=UTF8&qid=1493985078&sr=1-1&keywords=badass+kathy+sierra) by [Kathy Sierra](http://seriouspony.com/).
-
-- [Anything You Want](https://www.amazon.com/dp/B00SI0B5FS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) [$] by [Derek Sivers](https://twitter.com/sivers).
-
-- [Founders at Work](https://www.amazon.com/Founders-Work-Stories-Startups-Early-ebook/dp/B009IXMK4O/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493985002&sr=1-1&keywords=founders+at+work) [$] by [Jessica Livingstone](https://twitter.com/jesslivingston).
-
-
-
-
+- **[Groundera.com](https://groundera.com/)** - A collection of indie books, most of them free, for entrepreneurs. By [Philipp](https://groundera.com/about).
+- **[The SaaS Bootstrapper book list](http://thesaasbootstrapper.com/book-list/)** - Collection curated by [Mac Martine](http://macmartine.com/). 
+- **[Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18/ref=sr_1_1?s=books&ie=UTF8&qid=1493985078&sr=1-1&keywords=badass+kathy+sierra)** by [Kathy Sierra](http://seriouspony.com/).
+- **[Anything You Want](https://www.amazon.com/dp/B00SI0B5FS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)** [$] by [Derek Sivers](https://twitter.com/sivers).
+- **[Founders at Work](https://www.amazon.com/Founders-Work-Stories-Startups-Early-ebook/dp/B009IXMK4O/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493985002&sr=1-1&keywords=founders+at+work)** [$] by [Jessica Livingstone](https://twitter.com/jesslivingston).
 
 ### Tools
 
