@@ -290,9 +290,9 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Start Small, Stay Small](https://www.amazon.com/Start-Small-Stay-Developers-Launching-ebook/dp/B003YH9MMI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493983910&sr=1-1&keywords=start+small+stay+small)** [$] by [Rob Walling](https://twitter.com/robwalling).
 - **[Building Micro-SaaS Businesses](https://tylertringas.com/micro-saas-ebook/)** by [Tyler Tringas](https://twitter.com/tylertringas).
 - **[The Single Founder Handbook](http://www.singlefounderhandbook.com/)** [$] by [Mike Taber](https://twitter.com/SingleFounder).
-- **[Getting Real](https://gettingreal.37signals.com/)** by [37signals](https://37signals.com)
-- **[MAKE](https://makebook.io/)** [$] by [Pieter Levels](https://twitter.com/levelsio)
-- **[Rework](https://37signals.com/rework)** [$] by [37signals](https://37signals.com)
+- **[Getting Real](https://gettingreal.37signals.com/)** by [37signals](https://37signals.com).
+- **[MAKE](https://makebook.io/)** [$] by [Pieter Levels](https://twitter.com/levelsio).
+- **[Rework](https://37signals.com/rework)** [$] by [37signals](https://37signals.com).
 - **[Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)** [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman). 
 
 ##### Other
@@ -305,10 +305,21 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Tools
 
-http://thesaasbootstrapper.com/saas-startup-resources/
-- link to free-for-dev
-- link a tools of trade
-- link a selfhosted
+- **[The SaaS Bootstrapper Startup Resources](http://thesaasbootstrapper.com/saas-startup-resources/)**
+
+  A collection of resources for bootstrappers put together by [Mac Martine](http://macmartine.com/). 
+
+- **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
+
+  A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
+
+- **[Tools Of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)**
+
+  Spectacular list of categorized tools for developers resulting from HackerNews threads. By [Chris Barber](https://twitter.com/chrisbarber) and [Craig Davison](https://twitter.com/davisonio).
+
+- **[awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)**
+
+  "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 
 ### Courses
 
