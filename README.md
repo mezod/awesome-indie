@@ -60,6 +60,10 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 - **[ProductPeople.club](https://productpeople.club/)** [$]
 
   Exclusive community for indie makers run by [Justin Jackson](https://twitter.com/mijustin). Apparently there's a waitlist and I can't figure out how much is it. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targetting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
+  
+- **[FounderCafe](https://www.foundercafe.com/)** [$]
+
+  FounderCafe is an invite-only, online community of entrepreneurs helping each other succeed run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder). $99 every 3 months. I'm not a member so I can't personally endorse it.
 
 ##### Other
 - **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
@@ -144,6 +148,8 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 ##### Other
 
 - [Talks from the MicroConf](https://vimeo.com/user12790628/videos)
+- [Talks from the BaconBizConf](http://baconbiz.com/)
+- [Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)
 
 ### Posts
 
@@ -185,6 +191,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - [Bootstrappers.io](https://bootstrappers.io/)
 - [HackerNoon](https://hackernoon.com/)
 - [HackerNews](https://news.ycombinator.com/)
+- [7 Articles for Indie Devs to Start Shipping](https://hackernoon.com/7-articles-for-indie-devs-to-start-shipping-12b22f5e5660) - great selection by [Alex Moskovski](https://twitter.com/mskvsk)
 
 ### Blogs
 
@@ -248,11 +255,35 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Events
 
-- MicroConf
-- https://b2brocks.co/
-- http://baconbiz.com/
-- http://businessofsoftware.org/
-http://peersconf.com/
+- [MicroConf](http://www.microconf.com/) [$]
+
+  "The worlds biggest conference for the worlds smallest self-funded software companies". It has two editions, one more focused to starters, and another one focused on growth. Both last two days. Las Vegas. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
+  
+- [MicroConf Europe](http://www.microconfeurope.com/) [$]
+
+  MicroConf's european edition. Barcelona. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
+  
+- [BaconBizConf](http://baconbiz.com/) [$]
+
+  "An alliance for B2B bootstrappers". Philadelphia. By [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
+  
+##### Not specific to indie founders:
+
+- [Business of Software](http://businessofsoftware.org/) [$]
+
+  "Business of Software is not based in Silicon Valley for good reason. It is about building long term, sustainable software businesses. ...a thoughtful conference, where people come to listen and learn, not self promote and shout". Boston. [Team behind BoS](http://thebln.com/team/)
+  
+- [Business of Software Europe](http://businessofsoftware.eu/) [$]
+
+  BoS european edition. London. [Team behind BoS](http://thebln.com/team/)
+
+- [B2B Rocks](https://b2brocks.co/) [$]
+
+  "Leading conferences for B2B and SaaS startups". Popular business model for indie devs. Paris. Sydney.
+
+- [PeersConf](http://peersconf.com/) [$]
+
+  "A conference for those who make the web, and make it their business". Seattle (changes every year). By [Jessica D'Amico](https://twitter.com/justjessdc)
 
 ### Books
 
@@ -280,7 +311,6 @@ http://thesaasbootstrapper.com/saas-startup-resources/
 
 WAARRRRRRNING $$$ haven't tried it
 
-- https://www.foundercafe.com/
 - 30x500 https://30x500.com/academy/
 - Marketing for developers
 
