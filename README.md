@@ -271,11 +271,11 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 - [Business of Software](http://businessofsoftware.org/) [$]
 
-  "Business of Software is not based in Silicon Valley for good reason. It is about building long term, sustainable software businesses. ...a thoughtful conference, where people come to listen and learn, not self promote and shout". Boston. [Team behind BoS](http://thebln.com/team/)
+  "Business of Software is not based in Silicon Valley for good reason. It is about building long term, sustainable software businesses. ...a thoughtful conference, where people come to listen and learn, not self promote and shout". Boston. [Team behind BoS](http://thebln.com/team/).
   
 - [Business of Software Europe](http://businessofsoftware.eu/) [$]
 
-  BoS european edition. London. [Team behind BoS](http://thebln.com/team/)
+  BoS european edition. London. [Team behind BoS](http://thebln.com/team/).
 
 - [B2B Rocks](https://b2brocks.co/) [$]
 
@@ -283,22 +283,33 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 - [PeersConf](http://peersconf.com/) [$]
 
-  "A conference for those who make the web, and make it their business". Seattle (changes every year). By [Jessica D'Amico](https://twitter.com/justjessdc)
+  "A conference for those who make the web, and make it their business". Seattle (changes every year). By [Jessica D'Amico](https://twitter.com/justjessdc).
 
 ### Books
 
-- Start Small, Stay Small
-- tyler tringas https://tylertringas.com/micro-saas-ebook/
-- levels
-- getting things done - dhh
-- rework
-- amy hoy?
-- Badass by Kathy Sierra recommended by pushcx
-https://groundera.com/
-founders at work
-http://www.singlefounderhandbook.com/
+- [Start Small, Stay Small](https://www.amazon.com/Start-Small-Stay-Developers-Launching-ebook/dp/B003YH9MMI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493983910&sr=1-1&keywords=start+small+stay+small) [$] by [Rob Walling](https://twitter.com/robwalling).
+- [Building Micro-SaaS Businesses](https://tylertringas.com/micro-saas-ebook/) by [Tyler Tringas](https://twitter.com/tylertringas).
+- [The Single Founder Handbook](http://www.singlefounderhandbook.com/) [$] by [Mike Taber](https://twitter.com/SingleFounder).
+- [Getting Real](https://gettingreal.37signals.com/) by [37signals](https://37signals.com)
+- [MAKE](https://makebook.io/) [$] by [Pieter Levels](https://twitter.com/levelsio)
+- [Rework](https://37signals.com/rework) [$] by [37signals](https://37signals.com)
+- [Just Fucking Ship](https://unicornfree.com/just-fucking-ship/) [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman). 
 
-http://thesaasbootstrapper.com/book-list/
+##### Other
+
+- [Groundera.com](https://groundera.com/) - A collection of indie books, most of them free, for entrepreneurs. By [Philipp](https://groundera.com/about).
+  
+- [The SaaS Bootstrapper book list](http://thesaasbootstrapper.com/book-list/) - Collection curated by [Mac Martine](http://macmartine.com/).
+  
+- [Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18/ref=sr_1_1?s=books&ie=UTF8&qid=1493985078&sr=1-1&keywords=badass+kathy+sierra) by [Kathy Sierra](http://seriouspony.com/).
+
+- [Anything You Want](https://www.amazon.com/dp/B00SI0B5FS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) [$] by [Derek Sivers](https://twitter.com/sivers).
+
+- [Founders at Work](https://www.amazon.com/Founders-Work-Stories-Startups-Early-ebook/dp/B009IXMK4O/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493985002&sr=1-1&keywords=founders+at+work) [$] by [Jessica Livingstone](https://twitter.com/jesslivingston).
+
+
+
+
 
 ### Tools
 
