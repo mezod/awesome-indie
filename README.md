@@ -34,7 +34,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 - [Books](#books)
 - [Tools](#tools)
 - [Courses](#courses)
-- [Specific Needs](#specific-needs)
+- [Specific Topics](#specific-topics)
 
 ### Communities
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
@@ -288,12 +288,13 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 ### Books
 
 - **[Start Small, Stay Small](https://www.amazon.com/Start-Small-Stay-Developers-Launching-ebook/dp/B003YH9MMI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493983910&sr=1-1&keywords=start+small+stay+small)** [$] by [Rob Walling](https://twitter.com/robwalling).
-- **[Building Micro-SaaS Businesses](https://tylertringas.com/micro-saas-ebook/)** by [Tyler Tringas](https://twitter.com/tylertringas).
+- **[Building Micro-SaaS Businesses](https://tylertringas.com/micro-saas-ebook/)** by [Tyler Tringas](https://twitter.com/tylertringas). - A collection of very well structured posts that cover the most initial struggles of an indie dev on the way to build a MicroSaaS. I can personally endorse it and I'm eager to read the yet to be written chapters :)
 - **[The Single Founder Handbook](http://www.singlefounderhandbook.com/)** [$] by [Mike Taber](https://twitter.com/SingleFounder).
-- **[Getting Real](https://gettingreal.37signals.com/)** by [37signals](https://37signals.com).
+- **[Getting Real](https://gettingreal.37signals.com/)** by [37signals](https://37signals.com). - More focused on building web applications, I really recommend it. Short, straight to the point, very easy to read and full of valuable content.
 - **[MAKE](https://makebook.io/)** [$] by [Pieter Levels](https://twitter.com/levelsio).
 - **[Rework](https://37signals.com/rework)** [$] by [37signals](https://37signals.com).
-- **[Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)** [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman). 
+- **[Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)** [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
+- **[Marketing for Developers](https://gumroad.com/l/devmarketingbook#)** [$] by [Justin Jackson](https://twitter.com/mijustin).
 
 ##### Other
 
@@ -323,15 +324,22 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Courses
 
-WAARRRRRRNING $$$ haven't tried it
+Again, I'm not quite fond of listing [$] products made by indie developers targetting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
 
-- 30x500 https://30x500.com/academy/
-- Marketing for developers
+- **[Marketing for Developers](https://devmarketing.xyz/)** [$]
 
+  "An online marketing course for software developers & product people". Read some reviews [here](https://www.producthunt.com/posts/marketing-for-developers). By [Justin Jackson](https://twitter.com/mijustin).
+  
+- **[30x500 Academy](https://30x500.com/academy/)** [$]
 
-## Specific needs
+  "Pick your customer. Learn how they tick. Learn what they need, want, and are ready to buy." Find reviews [here](http://codefol.io/posts/30x500-why)(good), [here](https://news.ycombinator.com/item?id=8119354)(bad) and [here](https://www.quora.com/How-do-30x500-and-How-To-Make-Your-First-Dollar-compare). By [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman). 
 
-In the future, I'd like to have a list of resources for more specific needs or FAQs such as: 
+<!-- https://www.appsumo.com/how-to-make-your-first-dollar/ -->
+<!-- https://fizzle.co/ -->
+
+## Specific topics
+
+In the future, I'd like to have a list of resources for more specific topics or FAQs such as: 
 
  - 'how to get ideas'
  - 'how to find betatesters'
@@ -342,6 +350,8 @@ In the future, I'd like to have a list of resources for more specific needs or F
  <!-- https://training.kalzumeus.com/newsletters/archive/validating_product_ideas -->
  - 'where to advertise my project'
  - 'what paid ads work better'
+ - 'i've got 100 users, how to grow'
+ - 'how do i deal with support'
  - 'types of digital products'
  
-Help me make a proper list of specific needs!
+Help me make a proper list of specific topics!
