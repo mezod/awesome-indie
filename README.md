@@ -313,6 +313,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
+  
+- **[Stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)**
+
+  Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
 
 - **[Tools Of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)**
 
