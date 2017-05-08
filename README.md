@@ -77,7 +77,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
 - **[Bootstrappers.io](https://bootstrappers.io/)**
 
-  Weekly digest of the best user-submitted articles featured on bootstrapped.io. Curated by [Darren Stuart](https://twitter.com/ninjamonk)
+  Weekly digest of the best user-submitted articles featured on bootstrapped.io. Curated by [Darren Stuart](https://twitter.com/ninjamonk).
 
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
