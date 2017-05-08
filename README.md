@@ -81,7 +81,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
-  Newsletter containing the newest interviews of the site and also thread from the forum. Normally ships on thursdays. By [Courtland Allen](https://twitter.com/csallen?lang=ca).
+  Newsletter containing the newest interviews of the site and also the best threads from the forum. Normally ships on thursdays. By [Courtland Allen](https://twitter.com/csallen?lang=ca).
 
 - **[Indie](https://justinjackson.ca/indie/)**
 
