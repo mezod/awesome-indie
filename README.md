@@ -72,7 +72,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 ##### Other
 - **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
 - **[Bootstrapped Slack](https://bootstrapped.slack.com)** - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
-- **[r/SideProject](https://www.reddit.com/r/SideProject/)** ([invite here](http://www.bootstrappedchat.com/) link currently dead, wokring on it) - Quite active
+- **[r/SideProject](https://www.reddit.com/r/SideProject/)** ([invite here](http://www.bootstrappedchat.com/)) link currently dead, working on it! - Quite active
 - **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([invite here](http://sideproject.xyz/)) - Slack community for people working on their sideprojects.
 
 <!-- - lobsters -->
