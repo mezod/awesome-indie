@@ -363,5 +363,7 @@ In the future, I'd like to have a list of resources for more specific topics or 
  - 'i've got 100 users, how to grow'
  - 'how do i deal with support'
  - 'types of digital products'
+ - 'legal aspects'
+ <!-- https://termsfeed.com -->
  
 Help me make a proper list of specific topics!
