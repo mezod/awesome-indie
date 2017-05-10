@@ -64,6 +64,9 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 - **[FounderCafe](https://www.foundercafe.com/)** [$]
 
   FounderCafe is an invite-only, online community of entrepreneurs helping each other succeed run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder). $99 every 3 months. I'm not a member so I can't personally endorse it.
+  
+- **[Nugget.one](https://nugget.one/)** [$]
+  Nugget.one focuses on helping software developers launch successful side projects. Being part of the community gives access to case studios, bi-weekly webinars and live mentoring. Run by [Justin Vincent](https://twitter.com/justinvincent). $19.99 per month.
 
 ##### Other
 - **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
@@ -346,6 +349,8 @@ Again, I'm not quite fond of listing [$] products made by indie developers targe
 In the future, I'd like to have a list of resources for more specific topics or FAQs such as: 
 
  - 'how to get ideas'
+ <!-- http://www.oppsdaily.com/ -->
+ <!-- https://nugget.one/daily -->
  - 'how to find betatesters'
  - 'how to find my first 100 users'
  <!-- https://promotehour.com/ -->
