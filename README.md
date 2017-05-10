@@ -66,6 +66,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
   FounderCafe is an invite-only, online community of entrepreneurs helping each other succeed run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder). $99 every 3 months. I'm not a member so I can't personally endorse it.
   
 - **[Nugget.one](https://nugget.one/)** [$]
+
   Nugget.one focuses on helping software developers launch successful side projects. Being part of the community gives access to case studios, bi-weekly webinars and live mentoring. Run by [Justin Vincent](https://twitter.com/justinvincent). $19.99 per month.
 
 ##### Other
