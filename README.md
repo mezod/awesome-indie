@@ -365,5 +365,7 @@ In the future, I'd like to have a list of resources for more specific topics or 
  - 'types of digital products'
  - 'legal aspects'
  <!-- https://termsfeed.com -->
+ - 'typical mistakes'
+ <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
  
 Help me make a proper list of specific topics!
