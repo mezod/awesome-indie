@@ -149,10 +149,6 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
   Talk on building a successful small solo business.
   
-- **[How to go independent with digital products](https://www.youtube.com/watch?v=JGBAyzw0dG8)** by [Justin Jackson](https://twitter.com/mijustin)
-
-  Justin talks abotu going from no audience, no idea, and no revenue to quitting your job.
-  
 ##### Other
 
 - **[Talks from the MicroConf](https://vimeo.com/user12790628/videos)**
