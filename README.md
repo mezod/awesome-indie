@@ -59,7 +59,7 @@ If [$], it means it's not free and probably means I haven't tried it but still d
   
 - **[ProductPeople.club](https://productpeople.club/)** [$]
 
-  Exclusive community for indie makers run by [Justin Jackson](https://twitter.com/mijustin). Apparently there's a waitlist and I can't figure out how much is it. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targetting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
+  Exclusive community for indie makers run by [Justin Jackson](https://twitter.com/mijustin). Currently there's a waitlist. Cost is $249 for lifetime access. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targetting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
   
 - **[FounderCafe](https://www.foundercafe.com/)** [$]
 
@@ -148,6 +148,10 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 - **[Talking about CoderPad and business at Dropbox](https://www.youtube.com/watch?v=J8UwcyYT3z0)** by [Vincent Woo](https://twitter.com/fulligin?lang=ca)
 
   Talk on building a successful small solo business.
+  
+- **[How to go independent with digital products](https://www.youtube.com/watch?v=JGBAyzw0dG8)** by [Justin Jackson](https://twitter.com/mijustin)
+
+  Justin talks abotu going from no audience, no idea, and no revenue to quitting your job.
   
 ##### Other
 
@@ -298,7 +302,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[MAKE](https://makebook.io/)** [$] by [Pieter Levels](https://twitter.com/levelsio).
 - **[Rework](https://37signals.com/rework)** [$] by [37signals](https://37signals.com).
 - **[Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)** [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
-- **[Marketing for Developers](https://gumroad.com/l/devmarketingbook#)** [$] by [Justin Jackson](https://twitter.com/mijustin).
+- **[Marketing for Developers](https://justinjackson.withcoach.com/marketing-for-developers-the-book)** [$] by [Justin Jackson](https://twitter.com/mijustin).
 
 ##### Other
 
