@@ -110,6 +110,10 @@ If [$], it means it's not free and probably means I haven't tried it but still d
 
   Several different topics around bootstrapping online businesses. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov).
   
+- **[Bootstrapped Web](https://bootstrappedweb.com)**
+
+  "To share the lessons we learn by doing, and learn from the things that others are doing, to help us all get ahead as we bootstrap our businesses online." Since 2013 by [Brian Casel](https://twitter.com/CasJam) and [Jordan Gal](https://twitter.com/JordanGal).
+  
 - **[Entreprogrammers](http://entreprogrammers.com/)**
 
   A podcast for developreneurs. Run by [Josh Earl](https://twitter.com/josh_earl), [John Sonmez](https://twitter.com/jsonmez), [Derick Bailey](https://twitter.com/derickbailey) and [Charles Max Wood](https://twitter.com/cmaxw) since 2014.
