@@ -262,6 +262,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   An example of riding the wave.
 
+- **[Transparent Startups](http://www.transparentstartups.com/)**
+
+  Discover startups with transparent revenue numbers.
+
 ### Events
 
 - **[MicroConf](http://www.microconf.com/)** [$]
