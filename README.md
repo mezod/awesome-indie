@@ -131,6 +131,10 @@ by [@mezod](https://twitter.com/mezood)
 
   Not really specific to developers but with great content on the several types of products to make a living online. By [Pat Flynn](https://twitter.com/patflynn).
 
+- **[The Double Your Freelancing Podcast](https://doubleyourfreelancing.com/podcast/)**
+
+  This podcast is dedicated to helping you master the business of freelancing. It brings stories about experimenting and success and has really good balance of structured advice and entertaining talk.
+
   
 ### Talks
 
