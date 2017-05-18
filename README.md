@@ -133,7 +133,7 @@ by [@mezod](https://twitter.com/mezood)
 
 - **[Giant Robots](http://giantrobots.fm/)**
 
-  Ben Orenstein (former growth/product lead at Thoughtbot) and Derrick Reimer (co-founder of Drip) talk weekly about growing their SaaS businesses.
+  [Ben Orenstein](http://www.benorenstein.com/) (former growth/product lead at Thoughtbot) and Derrick Reimer (co-founder of Drip) talk weekly about growing their SaaS businesses.
 
   
 ### Talks
