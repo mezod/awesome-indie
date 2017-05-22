@@ -131,6 +131,10 @@ by [@mezod](https://twitter.com/mezood)
 
   Not really specific to developers but with great content on the several types of products to make a living online. By [Pat Flynn](https://twitter.com/patflynn).
 
+- **[Giant Robots](http://giantrobots.fm/)**
+
+  [Ben Orenstein](http://www.benorenstein.com/) (former growth/product lead at Thoughtbot) and Derrick Reimer (co-founder of Drip) talk weekly about growing their SaaS businesses.
+
   
 ### Talks
 
