@@ -365,6 +365,7 @@ In the future, I'd like to have a list of resources for more specific topics or 
  - 'how to get ideas'
  <!-- http://www.oppsdaily.com/ -->
  <!-- https://nugget.one/daily -->
+ <!-- https://www.oppslist.com/ -->
  - 'how to find betatesters'
  - 'how to find my first 100 users'
  <!-- https://promotehour.com/ -->
