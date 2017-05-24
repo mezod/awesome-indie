@@ -50,7 +50,7 @@ by [@mezod](https://twitter.com/mezood)
 
   A forum for bootstrappers. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov) as a continuation to the now defunct [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).
   
-- **[##passiveincome](http://webchat.freenode.net/?channels=%23%23passiveincome&uio=d4)** on freenode 
+- **[passiveincome](http://webchat.freenode.net/?channels=%23%23passiveincome&uio=d4)** on freenode 
 
   [Matthew Mallard](https://news.ycombinator.com/user?id=matbram) created this channel on the freenode IRC network in early 2017 and it has been pretty active and growing ever since.
   
