@@ -269,6 +269,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Transparent Startups](http://www.transparentstartups.com/)**
 
   Discover startups with transparent revenue numbers.
+  
+- **[Carrd.co](https://themakingof.carrd.co/#)**
+
+  [AJ](https://twitter.com/ajlkn) writes about the making of carrd.co and the different steps that he took on the way to a successful product.
 
 ### Events
 
