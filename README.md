@@ -1,7 +1,5 @@
-# awesome-indie
+# Awesome Indie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Resources to help independent developers make money.
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Making money from your own code has never been easier, but it's still hard. Here, I try to curate a list of resources to help everyone interested in making money from their digital products get inspired and give it a try. Be it monetizing sideprojects, bootstrapping business ideas, etc.
 
