@@ -20,7 +20,7 @@ by [@mezod](https://twitter.com/mezood)
 
 <!-- In general, I'd be wary of the several paid content-like products specially targetted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible. -->
 
-## Table of Contents
+## Contents
 
 - [Communities](#communities)
 - [Newsletters](#newsletters)
