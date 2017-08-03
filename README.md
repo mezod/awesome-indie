@@ -93,6 +93,10 @@ by [@mezod](https://twitter.com/mezood)
 - **[The SaaS Bootstrapper](http://thesaasbootstrapper.com/resources/)**
 
   Content about bootstrapping, SaaS, growth, marketing, and other startup topics curated by [Mac Martine](http://macmartine.com/).
+  
+- **[Hackerpreneur](https://hackerpreneur.co/)**
+
+  For indie entrepreneurs & makers who live and work on their own terms. Every Friday, you’ll get hand-picked startup resources & essays exploring the future of work in the exponential age. By [Marc Eglon](https://twitter.com/MarcEglon).
 
 
 ### Podcasts
