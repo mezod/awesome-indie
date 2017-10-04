@@ -1,7 +1,7 @@
 # Awesome Indie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Resources to help independent developers make money.
 
-Making money from your own code has never been easier, but it's still hard. Here, I try to curate a list of resources to help everyone interested in making money from their digital products get inspired and give it a try. Be it monetizing sideprojects, bootstrapping business ideas, etc.
+Making money from your own code has never been easier, but it's still hard. Here, I try to curate a list of resources to help everyone interested in making money from their digital products get inspired and give it a try. Be it monetizing side-projects, bootstrapping business ideas, etc.
 
 Projects don't need to be big, actually, it's better if they are not, they just need to be profitable. They might provide a passive income after the initial bulk of work, and who knows, maybe even help you reach financial independence.
 
@@ -18,7 +18,7 @@ by [@mezod](https://twitter.com/mezood)
 - If [$], it means it's not free and probably means I haven't tried it but still decided to add it because of the several references.
 - This repo was once [#1 on Github Trending](https://medium.com/@mezood/making-money-from-your-own-code-has-never-been-easier-but-its-still-hard-2242ddaae6a1)! :_)
 
-<!-- In general, I'd be wary of the several paid content-like products specially targetted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible. -->
+<!-- In general, I'd be wary of the several paid content-like products specially targeted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible. -->
 
 ## Contents
 
@@ -58,7 +58,7 @@ by [@mezod](https://twitter.com/mezood)
   
 - **[ProductPeople.club](https://productpeople.club/)** [$]
 
-  Exclusive community for indie makers run by [Justin Jackson](https://twitter.com/mijustin). Currently there's a waitlist. Cost is $249 for lifetime access. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targetting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
+  Exclusive community for indie makers run by [Justin Jackson](https://twitter.com/mijustin). Currently there's a waitlist. Cost is $249 for lifetime access. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targeting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
   
 - **[FounderCafe](https://www.foundercafe.com/)** [$]
 
@@ -84,7 +84,7 @@ by [@mezod](https://twitter.com/mezood)
 
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
 
-  Newsletter containing the newest interviews of the site and also the best threads from the forum. Normally ships on thursdays. By [Courtland Allen](https://twitter.com/csallen?lang=ca).
+  Newsletter containing the newest interviews of the site and also the best threads from the forum. Normally ships on Thursdays. By [Courtland Allen](https://twitter.com/csallen?lang=ca).
 
 - **[Indie](https://justinjackson.ca/indie/)**
 
@@ -198,7 +198,7 @@ by [@mezod](https://twitter.com/mezood)
 
 - **[Indie Startups: The Ingredients of Success](https://hackernoon.com/indie-startups-the-ingredients-of-success-74531fe3a019)** by [fpgaminer](https://hackernoon.com/@fpgaminer)
 
-  Numbers with meaning. fpgaminer analyzed all the products featured on IndieHackers, extracted some statistics and got to some conclusions. Worth reading it also for the approach.
+  Numbers with meaning. fpgaminer analyzed all the products featured on IndieHackers, extracted some statistics and got to some conclusions. Also worth reading for the approach.
 
 ##### Others
 There's obviously a million posts on the topic. I'm sure this is not a good selection but it'll get you started. Here you can find some more:
@@ -284,7 +284,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   
 - **[MicroConf Europe](http://www.microconfeurope.com/)** [$]
 
-  MicroConf's european edition. Barcelona. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
+  MicroConf's European edition. Barcelona. Run by [Rob Walling](https://twitter.com/robwalling) and [Mike Taber](https://twitter.com/SingleFounder).
   
 - **[BaconBizConf](http://baconbiz.com/)** [$]
 
@@ -294,11 +294,11 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 - **[Business of Software](http://businessofsoftware.org/)** [$]
 
-  "Business of Software is not based in Silicon Valley for good reason. It is about building long term, sustainable software businesses. ...a thoughtful conference, where people come to listen and learn, not self promote and shout". Boston. [Team behind BoS](http://thebln.com/team/).
+  "Business of Software is not based in Silicon Valley for good reason. It is about building long term, sustainable software businesses. …a thoughtful conference, where people come to listen and learn, not self promote and shout". Boston. [Team behind BoS](http://thebln.com/team/).
   
 - **[Business of Software Europe](http://businessofsoftware.eu/)** [$]
 
-  BoS european edition. London. [Team behind BoS](http://thebln.com/team/).
+  BoS European edition. London. [Team behind BoS](http://thebln.com/team/).
 
 - **[B2B Rocks](https://b2brocks.co/)** [$]
 
@@ -351,7 +351,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Courses
 
-Again, I'm not quite fond of listing [$] products made by indie developers targetting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
+Again, I'm not quite fond of listing [$] products made by indie developers targeting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
 
 - **[Marketing for Developers](https://devmarketing.xyz/)** [$]
 
