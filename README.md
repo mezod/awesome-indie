@@ -69,11 +69,12 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everyd
   Nugget.one focuses on helping software developers launch successful side projects. Being part of the community gives access to case studios, bi-weekly webinars and live mentoring. Run by [Justin Vincent](https://twitter.com/justinvincent). $19.99 per month.
 
 ##### Other
-- **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us. Another one is /r/EntrepreneurRideAlong/.
+- **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
 - **[Bootstrapped Slack](https://bootstrapped.slack.com)** ([invite here](http://www.bootstrappedchat.com/) invite link currently dead, working on it!) - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
 - **[r/SideProject](https://www.reddit.com/r/SideProject/)** - Quite active
 - **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([invite here](http://sideproject.xyz/)) - Slack community for people working on their sideprojects.
 - **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - A subreddit for small and independent businesses.
+- **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
 
 <!-- - lobsters -->
 
@@ -126,10 +127,6 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everyd
 
   Podcast where [Courtland Allen](https://twitter.com/csallen?lang=ca) interviews some of the most successful indiehackers featured on the site. Started in early 2017 already has 12 episodes with great content and very carefully crafted related notes and links.
   
-- **[Mixergy](https://itunes.apple.com/us/podcast/mixergy-startup-stories-1000-entrepreneurs-businesses/id348690336?mt=2)**
-
- Startup Interview podcast hosted by Andrew Warner, who made $1 million a month from an online greeting cards business.
-  
 - **[The SaaS Bootstrapper](http://thesaasbootstrapper.com/)**
 
   Interviews with entrepreneurs and bootstrappers about bootstrapping, SaaS, growth, marketing, and other startup topics. By [Mac Martine](http://macmartine.com/).
@@ -141,6 +138,10 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everyd
 - **[Giant Robots](http://giantrobots.fm/)**
 
   [Ben Orenstein](http://www.benorenstein.com/) (former growth/product lead at Thoughtbot) and [Derrick Reimer](https://twitter.com/derrickreimer) (co-founder of Drip) talk weekly about growing their SaaS businesses.
+  
+- **[Mixergy](https://itunes.apple.com/us/podcast/mixergy-startup-stories-1000-entrepreneurs-businesses/id348690336?mt=2)**
+
+  Startup Interview podcast hosted by [Andrew Warner](https://twitter.com/andrewwarner), who made $1 million a month from an online greeting cards business.
 
   
 ### Talks
@@ -305,7 +306,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   
 - **[StartupSchool](https://www.startupschool.org/)**
 
-  Free event organized by seed accelerator [YCombinator](http://www.ycombinator.com/). You have to be a bit lucky to get in.
+  Free event organized by seed accelerator [YCombinator](http://www.ycombinator.com/). You have to be a bit lucky to get in. Also, this suggestion goes a little bit against the idea of "bootstrapped" but YCombinator has a lot of good resources for us indie hackers!
   
 ##### Not specific to indie founders:
 
