@@ -166,7 +166,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everyd
 
   Talk on building a successful small solo business.
   
-- **[Paul Buchheit at Startup School 08](https://www.youtube.com/watch?v=EZxP0i9ah8E)
+- **[Paul Buchheit at Startup School 08](https://www.youtube.com/watch?v=EZxP0i9ah8E)**
 
   In this classic talk, AdSense/GMail/like button inventor explains how to listen to your users and why you should be critical of startup advice.
   
