@@ -11,7 +11,7 @@ All these resources might help inspire you and put you on the right track but in
 
 Contributions are more than welcome.
 
-by **[@mezod](https://twitter.com/mezood)** (Doing things every day at **[everydayCheck](https://everydaycheck.com)**)
+by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[everyday.app](https://everyday.app)**)
 
 **Notes:**
 
