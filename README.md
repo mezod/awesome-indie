@@ -80,6 +80,10 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 <!-- - lobsters -->
 
 ### Newsletters
+- **[Bootstrap Money](https://bootstrap.money)**
+  
+  Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
+  Curated by [Nicolas de Thoré](https://twitter.com/ndethore)
 
 - **[Bootstrappers.io](https://bootstrappers.io/)**
 
