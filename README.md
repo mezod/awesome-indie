@@ -282,10 +282,6 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Baremetrics](https://baremetrics.com/blog)**
 
   An example of riding the wave.
-
-- **[Transparent Startups](http://www.transparentstartups.com/)**
-
-  Discover startups with transparent revenue numbers.
   
 - **[Carrd.co](https://themakingof.carrd.co/#)**
 
