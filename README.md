@@ -80,11 +80,6 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 <!-- - lobsters -->
 
 ### Newsletters
-- **[Bootstrap Money](https://bootstrap.money)**
-  
-  Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
-  Curated by [Nicolas de Thoré](https://twitter.com/ndethore)
-
 - **[Bootstrappers.io](https://bootstrappers.io/)**
 
   Weekly digest of the best user-submitted articles featured on bootstrapped.io. Curated by [Darren Stuart](https://twitter.com/ninjamonk).
@@ -104,7 +99,11 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[Hackerpreneur](https://hackerpreneur.co/)**
 
   For indie entrepreneurs & makers who live and work on their own terms. Every Friday, you’ll get hand-picked startup resources & essays exploring the future of work in the exponential age. By [Marc Eglon](https://twitter.com/MarcEglon).
-
+  
+- **[Bootstrap Money](https://bootstrap.money)**
+  
+  Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
+  Curated by [Nicolas de Thoré](https://twitter.com/ndethore)
 
 ### Podcasts
 
