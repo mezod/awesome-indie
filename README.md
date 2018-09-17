@@ -179,7 +179,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[Talks from the MicroConf](https://vimeo.com/user12790628/videos)**
 - **[Talks from the BaconBizConf](http://baconbiz.com/)**
 - **[Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)**
-- 
+
 ### Posts
 
 - **[I’m Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/)** by [Pieter Levels](https://twitter.com/levelsio)
