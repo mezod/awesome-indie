@@ -76,6 +76,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - A subreddit for small and independent businesses.
 - **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
 - **[Work In Progress](https://wip.chat)** [$] - A public todo list for accountability, and a [Telegram chat](https://t.me/wipchat) of 800+ makers. Freemium.
+- **[r/Startups](https://www.reddit.com/r/startups/)**
 
 <!-- - lobsters -->
 
@@ -146,8 +147,11 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[Mixergy](https://itunes.apple.com/us/podcast/mixergy-startup-stories-1000-entrepreneurs-businesses/id348690336?mt=2)**
 
   Startup Interview podcast hosted by [Andrew Warner](https://twitter.com/andrewwarner), who made $1 million a month from an online greeting cards business.
-
   
+- **[How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)**
+
+  A podcast hosted by [Guy Raz](https://twitter.com/guyraz) where startup founders tell their story.
+    
 ### Talks
 
 - **[David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY)** by [David Heinemeier Hansson](https://twitter.com/dhh)
