@@ -218,6 +218,11 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
   Numbers with meaning. fpgaminer analyzed all the products featured on IndieHackers, extracted some statistics and got to some conclusions. Also worth reading for the approach.
 
+- **[What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)** by [Ivan Mir](https://twitter.com/ivmirx)
+
+  A guide to the complex world of modern software business: everything from UX design to marketing and writing, with a list of resources to start with each topic.
+  
+
 ##### Others
 There's obviously a million posts on the topic. I'm sure this is not a good selection but it'll get you started. Here you can find some more:
 
