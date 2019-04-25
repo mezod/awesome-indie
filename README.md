@@ -17,6 +17,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 - If [$], it means it's not free and probably means I haven't tried it but still decided to add it because of the several references.
 - This repo was once [#1 on Github Trending](https://medium.com/@mezood/making-money-from-your-own-code-has-never-been-easier-but-its-still-hard-2242ddaae6a1)! :_)
+- [Icepy](https://github.com/icepy) translated this repo to [Chinese](https://github.com/icepy/awesome-indie) :)
 
 <!-- In general, I'd be wary of the several paid content-like products specially targeted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible. -->
 
