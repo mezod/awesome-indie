@@ -347,6 +347,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)** [$] by [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman).
 - **[Marketing for Developers](https://justinjackson.withcoach.com/marketing-for-developers-the-book)** [$] by [Justin Jackson](https://twitter.com/mijustin).
 - **[Hackers&Painters](http://www.paulgraham.com/hackpaint.html)** [$] by [Paul Graham](http://www.paulgraham.com/).
+- **[The $100 Startup](http://100startup.com/)** [$] by [Chris Guillebeau](https://chrisguillebeau.com/).
 
 ##### Other
 
