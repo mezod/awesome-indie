@@ -353,6 +353,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Hackers&Painters](http://www.paulgraham.com/hackpaint.html)** [$] by [Paul Graham](http://www.paulgraham.com/).
 - **[The $100 Startup](http://100startup.com/)** [$] by [Chris Guillebeau](https://chrisguillebeau.com/).
 - **[Technical Blogging (2nd Edition)](https://pragprog.com/book/actb2/technical-blogging-second-edition)** [$] by [Antonio Cangiano](https://antoniocangiano.com/).
+- **[The Mom Test](http://momtestbook.com/)** [$] by [Rob Fitzpatrick](https://robfitz.com/).
 
 ##### Other
 
