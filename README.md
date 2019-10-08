@@ -57,7 +57,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
   News for hackers, mostly technology and entrepreneurship. Not specific to indie devs but a must for everyone interested in computer science, creating products and making money. A lot of indie devs lurking around. Started by [Paul Graham](https://twitter.com/paulg) and maintained by the seed accelerator YCombinator.
   
-- **[ProductPeople.club](https://productpeople.club/)** [$]
+- **[MegaMaker Club](https://megamaker.co/club/)** [$]
 
   Exclusive community for indie makers run by [Justin Jackson](https://twitter.com/mijustin). Currently there's a waitlist. Cost is $249 for lifetime access. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targeting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
   
