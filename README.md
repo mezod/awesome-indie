@@ -266,6 +266,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Maciej Cegłowski's blog for his bookmarking tool, pinboard, useful in showing the growth of a successful solo business.
   
+- **[The Bootstrapped Founder](https://thebootstrappedfounder.com/)**
+
+  How to start, run, and sell a bootstrapped SaaS company without burning out — by Arvid Kahl
+  
 ##### Others
   
 - **[The Foundation](https://thefoundation.com/blog)** - Turning the process of creating a B2B SaaS business into a formula.
