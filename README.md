@@ -365,7 +365,6 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ##### Other
 
-- **[Groundera.com](https://groundera.com/)** - A collection of indie books, most of them free, for entrepreneurs. By [Philipp](https://groundera.com/about).
 - **[SideProject Books](https://books.makesideproject.com/)** - Side Project Books is a curated collection of books for anyone interested in building a business on the side. By [Mubashar Iqbal](https://twitter.com/mubashariqbal)
 - **[The SaaS Bootstrapper book list](http://thesaasbootstrapper.com/book-list/)** - Collection curated by [Mac Martine](http://macmartine.com/). 
 - **[Badass: Making Users Awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18/ref=sr_1_1?s=books&ie=UTF8&qid=1493985078&sr=1-1&keywords=badass+kathy+sierra)** [$] by [Kathy Sierra](http://seriouspony.com/).
