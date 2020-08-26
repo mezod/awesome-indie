@@ -405,6 +405,10 @@ Again, I'm not quite fond of listing [$] products made by indie developers targe
 - **[30x500 Academy](https://30x500.com/academy/)** [$]
 
   "Pick your customer. Learn how they tick. Learn what they need, want, and are ready to buy." Find reviews [here](http://codefol.io/posts/30x500-why)(good), [here](https://news.ycombinator.com/item?id=8119354)(bad) and [here](https://www.quora.com/How-do-30x500-and-How-To-Make-Your-First-Dollar-compare). By [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman). 
+  
+- **[Blogging for Business](https://ahrefs.com/academy/blogging-for-business)** [Free]
+
+  "Learn how to grow your blog past 100K monthly visitors and turn thousands of your readers into paying customers." by Ahrefs Academy
 
 <!-- https://www.appsumo.com/how-to-make-your-first-dollar/ -->
 <!-- https://fizzle.co/ -->
