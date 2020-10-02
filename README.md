@@ -69,7 +69,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
   Nugget.one focuses on helping software developers launch successful side projects. Being part of the community gives access to case studios, bi-weekly webinars and live mentoring. Run by [Justin Vincent](https://twitter.com/justinvincent). $19.99 per month.
   
- - **[Makerlog](https://getmakerlog.com)**
+- **[Makerlog](https://getmakerlog.com)**
 
   Makerlog is a free community of makers shipping products together. There's discussions + a task management tracker that allows you to get a streak (to keep you motivated shipping).
 
