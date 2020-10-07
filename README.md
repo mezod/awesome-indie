@@ -374,10 +374,6 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Tools
 
-- **[The SaaS Bootstrapper Startup Resources](http://thesaasbootstrapper.com/saas-startup-resources/)**
-
-  A collection of resources for bootstrappers put together by [Mac Martine](http://macmartine.com/). 
-
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
