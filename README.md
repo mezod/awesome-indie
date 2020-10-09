@@ -362,6 +362,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[The $100 Startup](http://100startup.com/)** [$] by [Chris Guillebeau](https://chrisguillebeau.com/).
 - **[Technical Blogging (2nd Edition)](https://pragprog.com/book/actb2/technical-blogging-second-edition)** [$] by [Antonio Cangiano](https://antoniocangiano.com/).
 - **[The Mom Test](http://momtestbook.com/)** [$] by [Rob Fitzpatrick](https://robfitz.com/).
+- **[Zero to Sold](http://zerotosoldbook.com/)** [$] by [Arvid Kahl](https://thebootstrappedfounder.com/about-me/). How Arvid and his partner Danielle started, ran, and sold the bootstrapped EdTech SaaS FeedbackPanda, with everything that worked, should have worked, and didn't work.
 
 ##### Other
 
