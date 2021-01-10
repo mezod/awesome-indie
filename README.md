@@ -311,6 +311,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[CandyJapan](https://www.candyjapan.com/behind-the-scenes)**
 
   Revenue numbers and learnings from running a Japanese candy subscription box.
+  
+- **[Awesome Self Funded](https://github.com/awesome-self-funded/awesome-self-funded)**
+
+  Awesome list of successful self-funded tech businesses with >$1M revenue
 
 ### Events
 
