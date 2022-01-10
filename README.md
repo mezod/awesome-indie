@@ -72,6 +72,10 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[Makerlog](https://getmakerlog.com)**
 
   Makerlog is a free community of makers shipping products together. There's discussions + a task management tracker that allows you to get a streak (to keep you motivated shipping).
+  
+- **[Aussie Founders](https://www.aussiefounders.com.au/)**
+
+  Aussie Founders is a free community bringing together & supporting Aussies having a go at their own business.
 
 ##### Other
 - **[r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
