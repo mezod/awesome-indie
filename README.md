@@ -164,6 +164,10 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[Build your SaaS](https://saas.transistor.fm/)**
 
   What does it take to build a SaaS in 2019? Podcast by [Jon Buda](https://twitter.com/jonbuda) and [Justin Jackson](https://twitter.com/mijustin) as they grow Transistor.fm.
+  
+  - **[Select*](https://www.harperdb.io/blog-categories/podcast)**
+
+  A podcast hosted by [Margo McCabe](https://twitter.com/margo_hdb) with interviews from notable people across many different     aspects of tech, software development, and entrepreneurship.  
 
 ### Talks
 
