@@ -86,6 +86,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
 - **[Work In Progress](https://wip.chat)** [$] - A public todo list for accountability, and a [Telegram chat](https://t.me/wipchat) of 800+ makers. Freemium.
 - **[r/Startups](https://www.reddit.com/r/startups/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
+- **[Bing Pros](https://www.bing.com/pros/onboarding?utmsource=fbrep&mkt=en-us)** - A marketplace platform powered by Microsoft that connects consumers to service providers in a wide range of categories.
 
 <!-- - lobsters -->
 
