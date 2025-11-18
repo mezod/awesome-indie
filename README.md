@@ -379,6 +379,9 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Tools
 
+- **[CleanUpTxt](https://cleanuptxt.com)**
+  A Fast and privacy friendly text cleaning tools that run locally in the browser! By [Florent Frances](https://github.com/bulldog004)
+
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
