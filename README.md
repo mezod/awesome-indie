@@ -113,7 +113,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
   
 - **[SaaS Website](https://saas-website-github-io.onrender.com/)**
 
-AI-powered generation of digital product titles, descriptions, and SEO tags.
+AI-powered generation of digital product titles, descriptions, and SEO tags !
 
   
 ### Podcasts
