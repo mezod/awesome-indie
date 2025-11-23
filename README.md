@@ -110,7 +110,12 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
   
   Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
   Curated by [Nicolas de Thoré](https://twitter.com/ndethore)
+  
+- **[SaaS Website](https://saas-website.github.io)**
 
+AI-powered generation of digital product titles, descriptions, and SEO tags.
+
+  
 ### Podcasts
 
 - **[Startups for the rest of us](http://www.startupsfortherestofus.com/)**
@@ -396,6 +401,8 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 
   - [Finance Dashboard](https://github.com/Umuts-Codes/finance-dashboard) - Real time grocery company corporate income, expense, and balance dashboard with Flask backend and dynamic JS frontend.
+  
+  - [Project Management Dashboard](https://github.com/Umuts-Codes/project-management-dashboard) - A data-driven dashboard web app for company management, with a JavaScript admin panel for manual control.
 
 
 ### Courses
