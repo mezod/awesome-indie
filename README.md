@@ -404,6 +404,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   
   - [Project Management Dashboard](https://github.com/Umuts-Codes/project-management-dashboard) - A data-driven dashboard web app for company management, with a JavaScript admin panel for manual control.
 
+
 ### Courses
 
 Again, I'm not quite fond of listing [$] products made by indie developers targeting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
