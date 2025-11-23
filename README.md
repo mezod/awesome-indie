@@ -397,6 +397,8 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   - [Finance Dashboard](https://github.com/Umuts-Codes/finance-dashboard) - Real time grocery company corporate income, expense, and balance dashboard with Flask backend and dynamic JS frontend.
 
+  - [Project Management Dashboard](https://github.com/Umuts-Codes/project-management-dashboard) - A data-driven dashboard web app for company management, with a JavaScript admin panel for manual control.
+
 
 ### Courses
 
