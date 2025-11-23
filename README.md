@@ -396,8 +396,6 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 
   - [Finance Dashboard](https://github.com/Umuts-Codes/finance-dashboard) - Real time grocery company corporate income, expense, and balance dashboard with Flask backend and dynamic JS frontend.
-  
-  - [Project Management Dashboard](https://github.com/Umuts-Codes/project-management-dashboard) - A data-driven dashboard web app for company management, with a JavaScript admin panel for manual control.
 
 
 ### Courses
