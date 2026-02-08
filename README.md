@@ -387,6 +387,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
 
+- **[Cobalt Studio Tools Hub](https://techchenko.github.io/cobaltstudio-products/tools/)**
+
+  Collection of no-signup micro-tools for indie founders & freelancers (prompt generator, cold email generator, SaaS launch checklist, etc.).
+
 - **[Tools Of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)**
 
   Spectacular list of categorized tools for developers resulting from HackerNews threads. By [Chris Barber](https://twitter.com/chrisbarber) and [Craig Davison](https://twitter.com/davisonio).
