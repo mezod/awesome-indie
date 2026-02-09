@@ -382,6 +382,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
+- **[Cobalt Studio Tools Hub](https://techchenko.github.io/cobaltstudio-products/tools/)**
+
+  A collection of no-signup micro-tools for freelancers and indie founders (prompt generator, cold email generator, freelance invoice generator, and more).
+
   
 - **[Stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)**
 
