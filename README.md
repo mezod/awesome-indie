@@ -387,6 +387,18 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   A collection of no-signup micro-tools for freelancers and indie founders (prompt generator, cold email generator, freelance invoice generator, and more).
 
   
+- **[Cobalt Studio Templates Hub](https://techchenko.github.io/cobaltstudio-products/files/)**
+
+  Free copy/paste templates for freelancers and founders (proposal, SOW, contract, kickoff/status emails, invoice follow-ups, etc.).
+
+- **[Cobalt Studio Cold Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/cold-email-generator/)**
+
+  Generate 3 short cold emails + 5 subject lines (no signup).
+
+- **[Cobalt Studio Freelance Rate Calculator](https://techchenko.github.io/cobaltstudio-products/tools/rate-calculator/)**
+
+  Calculate hourly + project rates based on your income goals, expenses, and billable hours.
+
 - **[Stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)**
 
   Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
