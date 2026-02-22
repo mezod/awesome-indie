@@ -435,3 +435,8 @@ In the future, I'd like to have a list of resources for more specific topics or 
  <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
  
 Help me make a proper list of specific topics!
+
+
+## Podcasts / Directories
+
+- **[IndieStack](https://indiestack.fly.dev)** - A directory of indie-built software alternatives to mainstream SaaS. Find tools across 100+ categories, all made by solo developers or small teams.
