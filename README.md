@@ -312,6 +312,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Revenue numbers and learnings from running a Japanese candy subscription box.
   
+- **[Zero Engineer](https://github.com/sstklen/zero-engineer)**
+
+  How an animal sanctuary owner in Japan built a production API platform with zero engineering background using AI agents. Real numbers: 30+ APIs, $550/month, 7 months, 200+ bugs survived.
+
 - **[Awesome Self Funded](https://github.com/awesome-self-funded/awesome-self-funded)**
 
   Awesome list of successful self-funded tech businesses with >$1M revenue
