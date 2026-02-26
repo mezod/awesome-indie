@@ -379,6 +379,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Tools
 
+- **[Ambedo](https://www.bulkmetadataeditor.com)**
+
+  Bulk metadata editor for video, audio, and images that runs in your browser. Batch edit, strip, and organize metadata across hundreds of files locally using WebAssembly. Free tier available.
+
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
