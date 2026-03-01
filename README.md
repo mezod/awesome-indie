@@ -2,6 +2,7 @@
 Resources to help independent developers make money.
 
 Making money from your own code has never been easier, but it's still hard. Here, I try to curate a list of resources to help everyone interested in making money from their digital products get inspired and give it a try. Be it monetizing side-projects, bootstrapping business ideas, etc.
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
 
 Projects don't need to be big, actually, it's better if they are not, they just need to be profitable. They might provide a passive income after the initial bulk of work, and who knows, maybe even help you reach financial independence.
 
