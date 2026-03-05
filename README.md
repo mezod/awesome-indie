@@ -395,6 +395,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 
+- **[Agent Gateway](https://agent-gateway-kappa.vercel.app)**
+
+  A collection of 40+ free developer APIs under one roof — IP geolocation, crypto prices, screenshots, code execution, DNS lookups, web scraping, and more. No signup required for most endpoints. Great for indie devs who need utility APIs without the overhead of managing multiple providers. By [Frostbyte](https://github.com/OzorOwn).
+
 ### Courses
 
 Again, I'm not quite fond of listing [$] products made by indie developers targeting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
