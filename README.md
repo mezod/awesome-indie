@@ -410,6 +410,10 @@ Again, I'm not quite fond of listing [$] products made by indie developers targe
 <!-- https://www.appsumo.com/how-to-make-your-first-dollar/ -->
 <!-- https://fizzle.co/ -->
 
+- **[BeginThings](https://beginthings.com)**
+
+  96+ free tools for freelancers and solopreneurs — invoice generator, QR code maker, UTM builder, proposal templates, time tracker, bio link builder and more. No login or signup required. By [BeginThings](https://beginthings.com).
+
 ## Specific topics
 
 In the future, I'd like to have a list of resources for more specific topics or FAQs such as: 
