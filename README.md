@@ -395,6 +395,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 
+- **[GEOScore](https://geoscoreai.com)**
+
+  Free AI search visibility scanner. Checks if your website can be found and cited by ChatGPT, Perplexity, Claude & Gemini. Useful for indie hackers who want to ensure their products are discoverable in AI-powered search. Includes free tools like [AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator) and [AI Crawler Checker](https://geoscoreai.com/tools/ai-crawler-checker).
+
 ### Courses
 
 Again, I'm not quite fond of listing [$] products made by indie developers targeting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
