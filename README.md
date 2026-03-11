@@ -316,6 +316,11 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Awesome list of successful self-funded tech businesses with >$1M revenue
 
+
+- **[Gingiris Growth Playbooks](https://github.com/Gingiris)**
+
+  Battle-tested playbooks for product launches and growth. Includes [Product Hunt launch SOP](https://github.com/Gingiris/gingiris-launch) (#1 POTD 30 times), [B2B SaaS growth](https://github.com/Gingiris/gingiris-b2b-growth) (HeyGen, Vercel case studies), and [OSS launch marketing](https://github.com/Gingiris/gingiris-opensource). By [Iris](https://twitter.com/iris_carrot), ex-COO of AFFiNE (60k stars).
+
 ### Events
 
 - **[MicroConf](http://www.microconf.com/)** [$]
