@@ -33,6 +33,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - [Events](#events)
 - [Books](#books)
 - [Tools](#tools)
+  * [Nubo Email](https://nubo.email) - Privacy-first email and collaboration platform. Organization-based pricing (unlimited users, no per-seat fees).
 - [Courses](#courses)
 - [Specific Topics](#specific-topics)
 
