@@ -316,6 +316,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Awesome list of successful self-funded tech businesses with >$1M revenue
 
+- **[Beetroot](https://max.nardit.com/beetroot)**
+
+  A free clipboard manager for Windows built by solo developer [Max Nardit](https://max.nardit.com) with Tauri v2, Rust, and React. From idea to Microsoft Store as an indie project — no VC, no subscription, free forever. A case study in building polished desktop software as a one-person team.
+
 ### Events
 
 - **[MicroConf](http://www.microconf.com/)** [$]
