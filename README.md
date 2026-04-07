@@ -33,6 +33,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - [Events](#events)
 - [Books](#books)
 - [Tools](#tools)
+- [Alt Audit](https://wordpress.org/plugins/alt-audit/) — AI-powered WordPress plugin and SaaS for bulk alt text generation and WCAG image accessibility compliance. Uses Google Gemini. Free tier at altaudit.com
 - [Courses](#courses)
 - [Specific Topics](#specific-topics)
 
