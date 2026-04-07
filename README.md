@@ -395,6 +395,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 
+- **[RemoteOpenClaw](https://remoteopenclaw.com)**
+
+  Open marketplace for AI skills and personas built on OpenClaw. Discover, share, buy and sell AI agent capabilities — a new distribution channel for indie devs building AI products.
+
 ### Courses
 
 Again, I'm not quite fond of listing [$] products made by indie developers targeting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
