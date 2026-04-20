@@ -395,6 +395,14 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)**
+
+  An AI-powered background code analysis agent that continuously watches your codebase and provides intelligent suggestions. Helps indie developers ship faster by catching issues and surfacing improvements automatically. By [theihtisham](https://github.com/theihtisham).
+
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)**
+
+  A universal slash-command manager for AI coding assistants. Lets indie developers create, share, and manage custom slash commands across different AI tools, streamlining repetitive development workflows. By [theihtisham](https://github.com/theihtisham).
+
 ### Courses
 
 Again, I'm not quite fond of listing [$] products made by indie developers targeting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
