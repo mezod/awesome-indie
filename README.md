@@ -104,12 +104,12 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
   
 - **[Hackerpreneur](https://hackerpreneur.co/)**
 
-  For indie entrepreneurs & makers who live and work on their own terms. Every Friday, you’ll get hand-picked startup resources & essays exploring the future of work in the exponential age. By [Marc Eglon](https://twitter.com/MarcEglon).
+  For indie entrepreneurs & makers who live and work on their own terms. Every Friday, youâll get hand-picked startup resources & essays exploring the future of work in the exponential age. By [Marc Eglon](https://twitter.com/MarcEglon).
   
 - **[Bootstrap Money](https://bootstrap.money)**
   
   Weekly roundups of stories, guides and resources to help you grow your internet business. Every Friday. Free.
-  Curated by [Nicolas de Thoré](https://twitter.com/ndethore)
+  Curated by [Nicolas de ThorÃ©](https://twitter.com/ndethore)
 
 ### Podcasts
 
@@ -195,7 +195,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 ### Posts
 
-- **[I’m Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/)** by [Pieter Levels](https://twitter.com/levelsio)
+- **[Iâm Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/)** by [Pieter Levels](https://twitter.com/levelsio)
 
   The challenge that started it all for Pieter. It inspired me to do something similar. What matters is to create and ship a lot, learning in the process, until something is worth pushing further.
 
@@ -215,7 +215,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
   This is the first of a series by Amy Hoy. I'll be honest, I don't even remember what this was about, just that I found it worth my time. Oh wait, yeah, Amy told me not to code, at least at first. I haven't still gotten there...
 
-- **[The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1)** by [Clifford Oravec](https://twitter.com/cliffordoravec)
+- **[The Epic Guide to Bootstrapping a SaaS Startup from ScratchâââBy Yourself](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1)** by [Clifford Oravec](https://twitter.com/cliffordoravec)
 
   Another series on what solo bootstrapping is about, with an offensive twist. 
 
@@ -268,11 +268,11 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   
 - **[Pinboard](https://blog.pinboard.in/)**
 
-  Maciej Cegłowski's blog for his bookmarking tool, pinboard, useful in showing the growth of a successful solo business.
+  Maciej CegÅowski's blog for his bookmarking tool, pinboard, useful in showing the growth of a successful solo business.
   
 - **[The Bootstrapped Founder](https://thebootstrappedfounder.com/)**
 
-  How to start, run, and sell a bootstrapped SaaS company without burning out — by Arvid Kahl
+  How to start, run, and sell a bootstrapped SaaS company without burning out â by Arvid Kahl
   
 ##### Others
   
@@ -338,7 +338,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 - **[Business of Software](http://businessofsoftware.org/)** [$]
 
-  "Business of Software is not based in Silicon Valley for good reason. It is about building long term, sustainable software businesses. …a thoughtful conference, where people come to listen and learn, not self promote and shout". Boston. [Team behind BoS](http://thebln.com/team/).
+  "Business of Software is not based in Silicon Valley for good reason. It is about building long term, sustainable software businesses. â¦a thoughtful conference, where people come to listen and learn, not self promote and shout". Boston. [Team behind BoS](http://thebln.com/team/).
   
 - **[Business of Software Europe](http://businessofsoftware.eu/)** [$]
 
@@ -435,3 +435,5 @@ In the future, I'd like to have a list of resources for more specific topics or 
  <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
  
 Help me make a proper list of specific topics!
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
