@@ -23,6 +23,8 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
 ## Contents
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose web utilities for indie hackers: domain name generator with availability check, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator. No signup, no tracking, 6 tools and growing daily.
+
 - [Communities](#communities)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
@@ -435,3 +437,4 @@ In the future, I'd like to have a list of resources for more specific topics or 
  <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
  
 Help me make a proper list of specific topics!
+
