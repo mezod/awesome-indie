@@ -275,7 +275,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   How to start, run, and sell a bootstrapped SaaS company without burning out — by Arvid Kahl
   
 ##### Others
-  
+- ** [Peddlum](https://peddlum.com) - Digital product marketplace where sellers keep 90% and can promote through creators for free.
 - **[The Foundation](https://thefoundation.com/blog)** - Turning the process of creating a B2B SaaS business into a formula.
 - **[Price Intelligently](http://www.priceintelligently.com/blog)** - Blog focused on the economics of the SaaS business model and SaaS pricing.
 - **[Moz Blog](https://moz.com/blog)** - For anything related to SEO.
