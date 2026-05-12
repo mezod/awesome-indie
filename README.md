@@ -395,6 +395,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 
+- **[ReceiptClaimer](https://receiptclaimer.com.au)**
+
+  An AI-powered tax deduction tracking platform built specifically for sole traders, contractors, and landlords to automate expense tracking and maximize returns. Includes free tools and calculators.
+
 ### Courses
 
 Again, I'm not quite fond of listing [$] products made by indie developers targeting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
