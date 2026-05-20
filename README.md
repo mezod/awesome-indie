@@ -239,6 +239,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[HackerNoon](https://hackernoon.com/)**
 - **[HackerNews](https://news.ycombinator.com/)**
 - **[7 Articles for Indie Devs to Start Shipping](https://hackernoon.com/7-articles-for-indie-devs-to-start-shipping-12b22f5e5660)** - great selection by [Alex Moskovski](https://twitter.com/mskvsk)
+- [Commitment Issues](https://github.com/dotsystemsdevs/commitmentissues) - Free open-source web app that issues a satirical "death certificate" for abandoned GitHub repos — algorithmic cause of death, last commit as last words, severity score, profile graveyard scan.
 
 ### Blogs
 
