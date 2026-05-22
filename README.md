@@ -404,6 +404,7 @@ Again, I'm not quite fond of listing [$] products made by indie developers targe
   "An online marketing course for software developers & product people". Read some reviews [here](https://www.producthunt.com/posts/marketing-for-developers). By [Justin Jackson](https://twitter.com/mijustin).
   
 - **[30x500 Academy](https://30x500.com/academy/)** [$]
+- [TutorialSearch](https://tutorialsearch.io/browse/business-management/social-entrepreneurship) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
   "Pick your customer. Learn how they tick. Learn what they need, want, and are ready to buy." Find reviews [here](http://codefol.io/posts/30x500-why)(good), [here](https://news.ycombinator.com/item?id=8119354)(bad) and [here](https://www.quora.com/How-do-30x500-and-How-To-Make-Your-First-Dollar-compare). By [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman). 
 
