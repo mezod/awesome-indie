@@ -281,6 +281,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Moz Blog](https://moz.com/blog)** - For anything related to SEO.
 - **[Paul Graham](http://www.paulgraham.com/articles.html)** - A lot of content for big funded startups, but still relevant to bootstrappers.
 - **[John O'Nolan](https://john.onolan.org/)** - Especially the older posts on how he started ghost.
+- **[One Person Company](https://onepersoncompany.com/)** - A growing library of AI skill guides and operating playbooks for running sales, marketing, support, content, and ops as a solo founder.
 
 ### Case Studies
 
