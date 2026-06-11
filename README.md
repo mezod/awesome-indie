@@ -379,6 +379,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Tools
 
+- **[LLC Class](https://llcclass.com)**
+
+  [Wyoming LLC registration](https://llcclass.com/wyoming) for indie founders based outside the US. Covers [registered agent for LLC](https://llcclass.com/what-is-llc-registered-agent), EIN, and Operating Agreement — lets you open Stripe, Mercury bank, and other US business accounts as a non-US resident.
+
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
