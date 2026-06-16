@@ -394,6 +394,9 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)**
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
+- **[Ecommerce Profit Tracker PRO](https://whop.com/glm-643b/ecommerce-profit-tracker-pro-know-your-real-profit)** [$]
+
+  An Excel/Google Sheets workbook ($19, one-time) for indie makers running Etsy, Shopify, Amazon, or eBay side projects — calculates true net profit per order after fees, ad spend and COGS. Useful for bootstrappers who sell on marketplaces and want to know real margins without a SaaS subscription. By [limin6661](https://github.com/limin6661).
 
 ### Courses
 
