@@ -273,6 +273,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[The Bootstrapped Founder](https://thebootstrappedfounder.com/)**
 
   How to start, run, and sell a bootstrapped SaaS company without burning out — by Arvid Kahl
+
+- **[Ordinary Man Trying](https://ordinarymantrying.com)**
+
+  An ordinary Chinese person building an English blog from scratch with AI, documenting every experiment, failure, and dollar earned in public — starting from $0. 
   
 ##### Others
   
@@ -315,6 +319,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Awesome Self Funded](https://github.com/awesome-self-funded/awesome-self-funded)**
 
   Awesome list of successful self-funded tech businesses with >$1M revenue
+
+- **[Building in Public: 5-Year Experiment](https://ordinarymantrying.com/building-in-public-experiment/)**
+
+  A Chinese person's public record of building an English content site from zero — tracking revenue, traffic, tools, and strategy updated weekly for 5 years.
 
 ### Events
 
