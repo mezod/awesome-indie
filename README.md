@@ -407,6 +407,10 @@ Again, I'm not quite fond of listing [$] products made by indie developers targe
 
   "Pick your customer. Learn how they tick. Learn what they need, want, and are ready to buy." Find reviews [here](http://codefol.io/posts/30x500-why)(good), [here](https://news.ycombinator.com/item?id=8119354)(bad) and [here](https://www.quora.com/How-do-30x500-and-How-To-Make-Your-First-Dollar-compare). By [Amy Hoy](https://twitter.com/amyhoy) and [Alex Hillman](https://twitter.com/alexhillman). 
 
+- **[The Free X Growth Course](https://slappost.app/learn/)**
+
+  Five free, no-login lessons on growing on X (Twitter): hooks, threads, X's open-source algorithm, replies, and your profile funnel. By [Slap Post](https://slappost.app/).
+
 <!-- https://www.appsumo.com/how-to-make-your-first-dollar/ -->
 <!-- https://fizzle.co/ -->
 
