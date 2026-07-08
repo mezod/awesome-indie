@@ -418,6 +418,7 @@ In the future, I'd like to have a list of resources for more specific topics or 
  <!-- http://www.oppsdaily.com/ -->
  <!-- https://nugget.one/daily -->
  <!-- https://www.oppslist.com/ -->
+ - [50 Validated Micro-SaaS Ideas](https://davidames0523.github.io/microsaas-ideas/) — Data-backed niches with real revenue numbers, competition analysis, and build estimates for 2026. 50 ideas across 10 categories in PDF + CSV. [$1]
  - 'how to find betatesters'
  - 'how to find my first 100 users'
  <!-- https://promotehour.com/ -->
