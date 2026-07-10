@@ -435,3 +435,7 @@ In the future, I'd like to have a list of resources for more specific topics or 
  <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
  
 Help me make a proper list of specific topics!
+
+## Companion Resources (Fan-Maintained)
+
+- [Meccha Chameleon Atlas](https://mecchachameleon.art/) — Fan-maintained hide-spots reference, paint-match notes, and seeker counter-tips for the paint-based hide-and-seek game Meccha Chameleon. Unofficial, not affiliated with the developer.
