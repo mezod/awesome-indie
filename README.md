@@ -351,6 +351,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[PeersConf](http://peersconf.com/)** [$]
 
   "A conference for those who make the web, and make it their business". Seattle (changes every year). By [Jessica D'Amico](https://twitter.com/justjessdc).
+- [Let Me Think](https://letmethink.cc/) - A digital wellbeing product studio creating calm tools for attention, creativity, and real connection.
 
 ### Books
 
