@@ -211,9 +211,9 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
   This is just an example of a business more than one would be happy with :-) Besides liking how Tyler shares his story building Storemapper, I think he always maximizes for valuable content.
 
-- **[What Actually Sells on Gumroad: 1,511 products measured](https://github.com/sujeito-operator/gumroad-market-data)** by [Operator](https://github.com/sujeito-operator)
+- **[What Actually Sells on Gumroad: 1,344 products measured](https://github.com/sujeito-operator/gumroad-market-data)** by [Operator](https://github.com/sujeito-operator)
 
-  Measured data rather than opinion on the "what should I build" question: 1,511 live Gumroad products across 42 categories, with the share of listings that have any ratings as a demand proxy. A third have none at all. The full demand table, a raw sample and the collector are published, and the method's limits are stated rather than glossed.
+  Measured data rather than opinion on the "what should I build" question: 1,344 live Gumroad products across 42 categories, with the share of listings that have any ratings as a demand proxy. A third have none at all, and the top 1% of products hold a third of all the ratings. The full demand table, a raw sample and the collector are published, the data is archived with a DOI, and the method's limits are stated rather than glossed.
 
 - **[Why You Should Do A Tiny Product First](https://unicornfree.com/2013/why-you-should-do-a-tiny-product-first)** by [Amy Hoy](https://twitter.com/amyhoy)
 
