@@ -392,6 +392,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   Spectacular list of categorized tools for developers resulting from HackerNews threads. By [Chris Barber](https://twitter.com/chrisbarber) and [Craig Davison](https://twitter.com/davisonio).
 
 - **[awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)**
+- **[Autoposting](https://autoposting.ai)**
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 
