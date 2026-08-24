@@ -379,6 +379,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Tools
 
+- **[MiniYay](https://miniyay.com)**
+
+  100% free and private browser-based online tools for image editing, PDF management, and daily digital utilities.
+
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
