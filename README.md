@@ -379,6 +379,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Tools
 
+- **[Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/)**
+
+  Free browser-based invoice and receipt PDF generator for freelancers and solopreneurs. [Commercial EUR 249 one-time](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-indie-v1) white-label PDFs, 6 templates, CSV batch CLI, no account.
+
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
