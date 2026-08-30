@@ -78,6 +78,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[Bootstrapped Slack](https://bootstrapped.slack.com)** ([invite here](http://www.bootstrappedchat.com/) invite link currently dead, working on it!) - Slack that probably originated from the bootstrapped.fm forum. Not really moderated.
 - **[r/SideProject](https://www.reddit.com/r/SideProject/)** - Quite active
 - **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([invite here](http://sideproject.xyz/)) - Slack community for people working on their side-projects.
+- **[SnailDrop](https://snaildrop.aerosigil.com/) - Free, account-less instant text and file sharing using unique IDs with auto-expiry.
 - **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)** - A subreddit for small and independent businesses.
 - **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
 - **[Work In Progress](https://wip.chat)** [$] - A public todo list for accountability, and a [Telegram chat](https://t.me/wipchat) of 800+ makers. Freemium.
