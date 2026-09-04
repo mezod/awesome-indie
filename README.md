@@ -385,6 +385,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
   
 - **[Stack-on-a-budget](https://github.com/255kb/stack-on-a-budget)**
 
+- **[Freelance Pay & Tax Calculator](https://freelancepaycalculator.com)**
+
+  Free, 100% client-side calculator for freelancers and 1099 contractors to calculate target hourly/day rates, billable days, project quotes, and self-employment taxes (US, UK, DE, FR, AE, IN).
+
   Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
 
 - **[Tools Of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)**
