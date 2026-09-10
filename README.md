@@ -82,6 +82,9 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
 - **[Work In Progress](https://wip.chat)** [$] - A public todo list for accountability, and a [Telegram chat](https://t.me/wipchat) of 800+ makers. Freemium.
 - **[r/Startups](https://www.reddit.com/r/startups/)** - Not exclusive to indies/bootstrappers but still with relevant content for us.
+- **[VibeHacker](https://vibehacker.com)**
+
+  Product discovery community for AI builders and vibe coders: directory, reviews, discussions, and launches.
 
 <!-- - lobsters -->
 
