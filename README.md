@@ -377,7 +377,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[Founders at Work](https://www.amazon.com/Founders-Work-Stories-Startups-Early-ebook/dp/B009IXMK4O/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493985002&sr=1-1&keywords=founders+at+work)** [$] by [Jessica Livingston](https://twitter.com/jesslivingston).
 - **[SideProject Book](http://www.sideprojectbook.com/)** - [$49].
 
-### Tools
+### Tools- **[ScopeLock AI](https://ahirwardhanmanti83-bit.github.io/scopelock-ai/)** - Free B2B scope-creep defense tool to calculate developer hourly loss and generate binding change orders.
 
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
