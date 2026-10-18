@@ -378,6 +378,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[SideProject Book](http://www.sideprojectbook.com/)** - [$49].
 
 ### Tools
+- **[EOR Cost Calculator](https://chinaabroadguide.com/eor-cost-calculator/)** — Free comparison of Employer-of-Record costs (Deel / Remote / Playroll etc.) for indie founders hiring abroad.
 
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
