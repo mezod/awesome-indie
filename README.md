@@ -435,3 +435,4 @@ In the future, I'd like to have a list of resources for more specific topics or 
  <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
  
 Help me make a proper list of specific topics!
+- [Atlassio](https://atlassio.co.uk?utm_source=awesome-indie&utm_medium=directory&utm_campaign=launch) - Automated Schengen 90/180-day travel compliance and visa calculator for nomads and remote workers. (Freemium)
