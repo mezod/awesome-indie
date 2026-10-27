@@ -435,3 +435,4 @@ In the future, I'd like to have a list of resources for more specific topics or 
  <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
  
 Help me make a proper list of specific topics!
+- [Novaframe](https://www.novaframe.co.uk) - Dynamic WebGL, shader, and HTML5 live wallpaper engine and digital marketplace for desktop setups. (Freemium)
