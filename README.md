@@ -239,6 +239,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[HackerNoon](https://hackernoon.com/)**
 - **[HackerNews](https://news.ycombinator.com/)**
 - **[7 Articles for Indie Devs to Start Shipping](https://hackernoon.com/7-articles-for-indie-devs-to-start-shipping-12b22f5e5660)** - great selection by [Alex Moskovski](https://twitter.com/mskvsk)
+- **[Income Claim Check](https://money.taoliapp.com/)** - Fact-checks of indie-hacker income screenshots: payment-verified when possible, sources linked.
 
 ### Blogs
 
