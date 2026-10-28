@@ -395,6 +395,11 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 
+
+- **[SmartBizCalc](https://smartbizcalc.com)**
+
+  292 free calculators covering tax, pricing, insurance, and break-even for small businesses and independent contractors. Useful for quickly modeling business finances without a spreadsheet.
+
 ### Courses
 
 Again, I'm not quite fond of listing [$] products made by indie developers targeting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
@@ -409,6 +414,10 @@ Again, I'm not quite fond of listing [$] products made by indie developers targe
 
 <!-- https://www.appsumo.com/how-to-make-your-first-dollar/ -->
 <!-- https://fizzle.co/ -->
+
+- **[SmartBizCalc](https://www.smartbizcalc.com/?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-indie)**
+
+  Free calculators for indie founders and small business owners: contractor pricing, break-even analysis, profit margins, self-employment tax, payroll, and 700+ more. By [Gal Mordechai](https://github.com/galmorduku/).
 
 ## Specific topics
 
