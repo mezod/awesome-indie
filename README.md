@@ -435,3 +435,5 @@ In the future, I'd like to have a list of resources for more specific topics or 
  <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
  
 Help me make a proper list of specific topics!
+
+- [BrightWire AI Tech Stack Advisor](https://www.brightwire.news/tech-stack) - Free interactive AI developer tool that recommends the ideal frontend, backend, database, hosting, and AI stack with architecture diagrams and cost estimates ([BrightWire News](https://www.brightwire.news)).
