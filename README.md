@@ -378,6 +378,9 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[SideProject Book](http://www.sideprojectbook.com/)** - [$49].
 
 ### Tools
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
 
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
