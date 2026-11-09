@@ -435,3 +435,6 @@ In the future, I'd like to have a list of resources for more specific topics or 
  <!-- https://www.47hats.com/2017/05/10/startup-mistake-1-anonymous-startup/ -->
  
 Help me make a proper list of specific topics!
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS companion that shows what's playing in the corner beside the Dock.
