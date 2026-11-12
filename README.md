@@ -232,6 +232,10 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
   A guide to the complex world of modern software business: everything from UX design to marketing and writing, with a list of resources to start with each topic.
   
 
+- **[Product Hunt or Show HN: where should a developer launch first?](https://launchloop.dev/blog/product-hunt-vs-show-hn)** by [Lucien George](https://luciengeorge.com)
+
+  Puts Product Hunt and Show HN's own launch rules side by side, then runs one launch text through both title checkers, so you can decide which to use first.
+
 ##### Others
 There's obviously a million posts on the topic. I'm sure this is not a good selection but it'll get you started. Here you can find some more:
 
