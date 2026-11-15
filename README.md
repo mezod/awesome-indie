@@ -379,6 +379,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 ### Tools
 
+- **[No Stairs Please](https://nostairsplease.com/)** ([MCP](https://nostairsplease.com/mcp))
+
+  Directory of 1,700+ independent live-music venues and booking contacts across all 50 US states, DC, and British Columbia, with a public remote MCP server for AI agents and indie touring musicians.
+
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
   A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev. Very useful for bootstrappers to keep initial costs low ;) By [R. I. Pienaar](https://github.com/ripienaar/).
