@@ -378,6 +378,7 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[SideProject Book](http://www.sideprojectbook.com/)** - [$49].
 
 ### Tools
+- [OneHTML](https://onehtmlapp.com) - Free, ad-free collection of lightweight single-file web apps, micro-games, and AI-prompted canvas artifacts.
 
 - **[free-for-dev](https://github.com/ripienaar/free-for-dev)**
 
