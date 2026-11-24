@@ -316,6 +316,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Awesome list of successful self-funded tech businesses with >$1M revenue
 
+- **[网赚案例库](https://wz.790221.xyz/)**
+ 
+53 verified real money-making case studies, free to read (in Chinese).
+
 ### Events
 
 - **[MicroConf](http://www.microconf.com/)** [$]
