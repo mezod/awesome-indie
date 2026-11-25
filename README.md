@@ -230,6 +230,7 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)** by [Ivan Mir](https://twitter.com/ivmirx)
 
   A guide to the complex world of modern software business: everything from UX design to marketing and writing, with a list of resources to start with each topic.
+- **[Swavent Guides](https://swavent.com/en/guides)** - Free Shopify, ecommerce, SEO and web development guides.
   
 
 ##### Others
