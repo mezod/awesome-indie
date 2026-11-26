@@ -395,6 +395,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 
+- **[MRR Bench](https://mrrbench.com/)**
+
+  Pricing data for 4,000+ SaaS products: every monthly tier with the date its price changed, so you can see what a competitor charges on the cheapest plan and how often they move it. Free to browse, no signup. By [qianyu](https://x.com/liuqianyu885).
+
 ### Courses
 
 Again, I'm not quite fond of listing [$] products made by indie developers targeting indie developers, especially because I haven't tried them myself, but due to several references I assume they are probably worth it and some people might find value in learning about them.
