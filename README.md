@@ -41,10 +41,6 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 
   Learn from profitable businesses and side projects. IndieHackers is probably the catalyst for this new wave of interest on making an independent income. It is a collection of interviews to successful developers about their products. IndieHackers has been especially interesting to follow since it's been an indie project itself. [Courtland Allen](https://twitter.com/csallen?lang=ca) has been very transparent about [how he built it](https://www.indiehackers.com/blog). The last news make one think that the forum/community will grow.
 
-- **[bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)**
-
-  A forum for bootstrappers. Started in 2013 by [Ian Landsman](https://twitter.com/ianlandsman) and [Andrey Butov](https://twitter.com/andrey_butov) as a continuation to the now defunct [The Business of Software](http://discuss.joelonsoftware.com/default.asp?biz).
-  
 - **[##passiveincome](http://webchat.freenode.net/?channels=%23%23passiveincome&uio=d4)** on freenode 
 
   [Matthew Mallard](https://news.ycombinator.com/user?id=matbram) created this channel on the freenode IRC network in early 2017 and it has been pretty active and growing ever since.
@@ -52,10 +48,6 @@ by **[@mezod](https://twitter.com/mezood)** (Doing things every day with **[ever
 - **[HackerNews](https://news.ycombinator.com/)**
 
   News for hackers, mostly technology and entrepreneurship. Not specific to indie devs but a must for everyone interested in computer science, creating products and making money. A lot of indie devs lurking around. Started by [Paul Graham](https://twitter.com/paulg) and maintained by the seed accelerator YCombinator.
-  
-- **[MegaMaker Club](https://megamaker.co/club/)** [$]
-
-  Exclusive community for indie makers run by [Justin Jackson](https://twitter.com/mijustin). Currently there's a waitlist. Cost is $249 for lifetime access. I'm not a member so I can't personally endorse it. Generally, I'm skeptic on products targeting indie makers but I still found it relevant to add this specific product because of cross references. Some people might find it interesting. Feel free to reference to reviews!
   
 - **[FounderCafe](https://www.foundercafe.com/)** [$]
 
@@ -277,7 +269,6 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 ##### Others
   
 - **[The Foundation](https://thefoundation.com/blog)** - Turning the process of creating a B2B SaaS business into a formula.
-- **[Price Intelligently](http://www.priceintelligently.com/blog)** - Blog focused on the economics of the SaaS business model and SaaS pricing.
 - **[Moz Blog](https://moz.com/blog)** - For anything related to SEO.
 - **[Paul Graham](http://www.paulgraham.com/articles.html)** - A lot of content for big funded startups, but still relevant to bootstrappers.
 - **[John O'Nolan](https://john.onolan.org/)** - Especially the older posts on how he started ghost.
@@ -356,7 +347,6 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
 - **[Start Small, Stay Small](https://www.amazon.com/Start-Small-Stay-Developers-Launching-ebook/dp/B003YH9MMI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1493983910&sr=1-1&keywords=start+small+stay+small)** [$] by [Rob Walling](https://twitter.com/robwalling).
 - **[Building Micro-SaaS Businesses](https://tylertringas.com/micro-saas-ebook/)** by [Tyler Tringas](https://twitter.com/tylertringas). - A collection of very well structured posts that cover the most initial struggles of an indie dev on the way to build a MicroSaaS. I can personally endorse it and I'm eager to read the yet to be written chapters :)
-- **[The Single Founder Handbook](http://www.singlefounderhandbook.com/)** [$] by [Mike Taber](https://twitter.com/SingleFounder).
 - **[Getting Real](https://gettingreal.37signals.com/)** by [37signals](https://37signals.com). - More focused on building web applications, I really recommend it. Short, straight to the point, very easy to read and full of valuable content.
 - **[MAKE](https://makebook.io/)** [$] by [Pieter Levels](https://twitter.com/levelsio).
 - **[Rework](https://37signals.com/rework)** [$] by [37signals](https://37signals.com).
@@ -394,6 +384,10 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 - **[awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)**
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
+
+- **[SaaSCity](https://saascity.io)**
+
+  A curated startup launch directory and interactive 3D SaaS map featuring a [free dofollow directory atlas](https://saascity.io/free-dofollow-directories) (1,600+ launch platforms and software directories filtered by Domain Rating, pricing, and link type) and free pre-launch SEO readiness checks for bootstrapped founders.
 
 ### Courses
 
